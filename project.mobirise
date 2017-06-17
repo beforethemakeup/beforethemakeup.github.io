@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Contactus.html",
+    "currentPage": "services.waxing.html",
     "name": "beforethemakeup1.1",
     "theme": {
       "name": "mobirise3",
@@ -31,454 +31,9 @@
     "google-analytics": ""
   },
   "pages": {
-    "Home.html": {
-      "settings": {
-        "main": true,
-        "title": "Before The Makeup-HOME ",
-        "meta_descr": "Innovative Atlanta Skin care and Facial Spa Services",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": "",
-        "order": 1
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff",
-              "font-size": "30px",
-              "font-family": "'PT Sans Narrow', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700"
-            },
-            ".navbar-toggler": {
-              "color": "#7a9162"
-            },
-            ".link, .dropdown-item": {
-              "color": "#7a9162",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i",
-              "font-family": "'PT Serif', serif"
-            },
-            ".link": {
-              "font-size": "1.05rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.137rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#d6d6d6"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#e7e7e7!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#efefef"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#7a9162",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {},
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#7a9162"
-            }
-          },
-          "_name": "menu",
-          "_anchor": "menu-0",
-          "_params": {
-            "bgColor": "#efefef",
-            "fontSize": "1.05",
-            "fontName": {
-              "name": "PT Serif",
-              "url": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i",
-              "css": "'PT Serif', serif"
-            },
-            "fontColor": "#7a9162",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": false,
-            "collapsed": false,
-            "hideButtons": true
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/b4mlogo1-264x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "Home.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "linkInNewWindow": false,
-              "name": "etsy",
-              "family": "socicon",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Before The <br>Make-up</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Home.html#features1-2\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Home.html#slider-h\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"services.facials.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Facials</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.facials.html#msg-box5-u\">Express Facial</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.facials.html#msg-box5-w\">Signature Facial</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.facials.html#msg-box5-y\">Chemical Peel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.facials.html#msg-box5-x\">Microdermabrasion</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Services.eyelashes.html#msg-box5-26\">Lashes</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Waxing</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.waxing.html#msg-box5-12\">Eye Brows</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.waxing.html#msg-box5-13\">Chin Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.waxing.html#msg-box5-19\">Full Face</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.waxing.html#msg-box5-19\">Lip Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.waxing.html#msg-box5-15\">Under Arms</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Specialty&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.specialty.html#msg-box5-1k\">Micro Current</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.specialty.html#msg-box5-1l\">Hot Stones</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://beforethemakeup.setmore.com \" aria-expanded=\"false\" target=\"_blank\">BOOK NOW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\"><span class=\"mbri-smile-face mbr-iconfont mbr-iconfont-btn\"></span>DOWNLOAD</a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "slider",
-          "_styles": {
-            ".btn": {
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "font-size": "17px"
-            }
-          },
-          "_params": {
-            "autoplay": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "timeout": "6",
-            "slides": [
-              {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/effl-touch-2000x1338.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "overlayOpacity": "0.3",
-                "overlayColor": "#000000",
-                "contentAlign": "left",
-                "showTitle": false,
-                "title": "FULL SCREEN SLIDER",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/hot-stone-massage-2000x729.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "overlayOpacity": "0.4",
-                "contentAlign": "left",
-                "showTitle": false,
-                "title": "<br><div><br><div><br></div></div>",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Book An Appointment</a> "
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/14971339503321281759267-2000x1646.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "overlayOpacity": "0.4",
-                "overlayColor": "#000000",
-                "contentAlign": "left",
-                "showTitle": false,
-                "title": "VIDEO SLIDE",
-                "showText": false,
-                "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/1497132261257320591891-2000x1101.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "overlayColor": "#000000",
-                "contentAlign": "right",
-                "showTitle": false,
-                "title": "IMAGE SLIDE",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              }
-            ],
-            "fullScreen": true,
-            "bgColor": "#fff",
-            "showBullets": false
-          },
-          "_anchor": "slider-h",
-          "articleLayout": false
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".btn": {
-              "font-size": "14px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-4",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/hot-stone-massage-2000x729.jpg",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.9",
-            "overlayColor": "#222",
-            "showTitle": false,
-            "showText": false,
-            "showButton": true
-          },
-          "title": "ARTICLE HEADER",
-          "text": "<p>Article header with background image and parallax effect.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://beforethemakeup.setmore.com \" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">COME SEE US</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features1",
-          "_styles": {
-            ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#90a878"
-            },
-            ".btn": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "14px"
-            },
-            ".mbr-cards-col:nth-child(even) .card-title": {
-              "text-align": "center",
-              "font-size": "30px"
-            },
-            ".mbr-cards-col:nth-child(even) .card-subtitle SPAN": {
-              "font-size": "11px"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
-              "color": "#efefef"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-title": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-size": "30px"
-            }
-          },
-          "_anchor": "features1-2",
-          "_params": {
-            "columnsColor": "#90a878",
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "4",
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
-            "showButtons": false
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/microdermabrasionfacial-2000x2500.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "services.facials.html",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title1": "Facials<br><br>",
-          "subtitle1": "<p><a href=\"services.facials.html\"><b>Signature</b></a><br><a href=\"services.facials.html\"><b>Express</b></a><a href=\"Home.html#features1-2\"></a><br><a href=\"services.facials.html\"><b>Peels</b></a><br><a href=\"services.facials.html\"><b>MicroDerm</b></a></p>",
-          "caption1": "",
-          "button1": "<a data-app-btn=\"true\" href=\"http://beforethemakeup.setmore.com \" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Book Now</a> ",
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/1497132576391-2000x1206-800x482.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title2": "Specialties<br><br>",
-          "subtitle2": "<a href=\"services.specialty.html\"><b>Non Surgical Face-Lift</b></a><br><b>&nbsp;<a href=\"services.specialty.html\">Hot Stones</a></b>",
-          "caption2": "",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">Book Now</a>",
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/1497129949949562149077-2000x1591-800x636.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title3": "Waxing<br><br>",
-          "subtitle3": "<b><a href=\"Home.html#features1-2\">Eye Brows</a> </b><br><a href=\"services.waxing.html\"><b>Chin</b></a><br><a href=\"services.waxing.html\"><b>Full Face</b></a><br><a href=\"services.waxing.html\"><b>Lip</b></a><br><br>",
-          "caption3": "",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Book Now</a>",
-          "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/14971339503321281759267-2000x1646-800x658.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title4": "Eye Lashes<br>&nbsp;",
-          "subtitle4": "<b><a href=\"Services.eyelashes.html\">Tab Extentions</a>&nbsp;</b><br><b><a href=\"Services.eyelashes.html\">Strip Extentions</a><br></b><br><br>",
-          "caption4": "",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">Book Now</a>",
-          "media5": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#fff",
-              "font-size": "36px",
-              "text-align": "center"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#a0a0a0",
-              "text-align": "center",
-              "font-size": "25px"
-            },
-            ".btn": {
-              "font-size": "14px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box2",
-          "_anchor": "msg-box2-2g",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "inverse": true,
-            "showButtons": true,
-            "showTitle": true,
-            "showText": true
-          },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://beforethemakeup.setmore.com \" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK NOW</a>",
-          "title": "Schedule an Appointment",
-          "text": "Before the Make-up...there's beauty."
-        },
-        {
-          "_name": "footer1",
-          "_anchor": "footer1-2",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2017 Before The Makeup."
-        }
-      ]
-    },
     "services.facials.html": {
       "settings": {
-        "title": "Facials",
+        "title": "Before The Makeup Facials",
         "meta_descr": "Web Builder Description",
         "order": 2
       },
@@ -563,7 +118,7 @@
             "sticky": true,
             "logo": true,
             "showBrand": false,
-            "collapsed": false,
+            "collapsed": true,
             "hideButtons": true
           },
           "logo": {
@@ -586,7 +141,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Before The <br>Make-up</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Home.html#features1-2\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Home.html#slider-h\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"services.facials.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Facials</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.facials.html#msg-box5-u\">Express Facial</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.facials.html#msg-box5-w\">Signature Facial</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.facials.html#msg-box5-y\">Chemical Peel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.facials.html#msg-box5-x\">Microdermabrasion</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Services.eyelashes.html#msg-box5-26\">Lashes</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Waxing</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.waxing.html#msg-box5-12\">Eye Brows</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.waxing.html#msg-box5-13\">Chin Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.waxing.html#msg-box5-19\">Full Face</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.waxing.html#msg-box5-19\">Lip Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.waxing.html#msg-box5-15\">Under Arms</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Specialty&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.specialty.html#msg-box5-1k\">Micro Current</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.specialty.html#msg-box5-1l\">Hot Stones</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://beforethemakeup.setmore.com \" aria-expanded=\"false\" target=\"_blank\">BOOK NOW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\"><span class=\"mbri-smile-face mbr-iconfont mbr-iconfont-btn\"></span>DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Home.html#features1-2\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Home.html#slider-h\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"services.facials.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Facials</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.facials.html#msg-box5-u\">Express Facial</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.facials.html#msg-box5-w\">Signature Facial</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.facials.html#msg-box5-y\">Chemical Peel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.facials.html#msg-box5-x\">Microdermabrasion</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Services.eyelashes.html#msg-box5-26\">Lashes</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"services.waxing.html\" aria-expanded=\"true\">Waxing</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.waxing.html#msg-box5-12\">Eye Brows</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.waxing.html#msg-box5-19\">Full Face</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.waxing.html#msg-box5-19\">Lip Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.waxing.html#msg-box5-15\">Under Arms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.waxing.html#msg-box5-12\">Chin Waxing</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"services.specialty.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Specialty&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.specialty.html#msg-box5-1k\">Micro Current</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.specialty.html#msg-box5-1l\">Hot Stones</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://beforethemakeup.setmore.com \" aria-expanded=\"false\" target=\"_blank\">BOOK NOW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\"><span class=\"mbri-smile-face mbr-iconfont mbr-iconfont-btn\"></span>DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -604,7 +159,7 @@
             "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/effl-touch-2000x13383.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/effl-touch-2000x1338.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -716,7 +271,7 @@
           },
           "title": "Express &nbsp;Facial<br>",
           "text": "<b>30 min | $47</b><br>Deep cleansing facial for the person that is on the go.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"http://beforethemakeup.setmore.com \" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>"
         },
         {
           "_tags": [
@@ -785,7 +340,7 @@
           },
           "title": "Signature Facial",
           "text": "<b>1 hr | $75</b><br>A customized facial that involves a skin consultation accompanied with a deep cleansing, steam, exfoliants, extractions, masque, hand massage. Along with moisturizer, spf and eye serum. <br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"http://beforethemakeup.setmore.com \" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>"
         },
         {
           "_tags": [
@@ -849,7 +404,7 @@
           },
           "title": "Chemical Peel",
           "text": "<b>45 min | $55 - $165</b><br>Chemical solution used to improve and smooth the texture of the skin by removing the damaged outer layer. Chemical peel determination will be made after an in-depth consultation.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"http://beforethemakeup.setmore.com \" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>"
         },
         {
           "_tags": [
@@ -914,7 +469,7 @@
           },
           "title": "Microdermabrasion",
           "text": "<b>1hr | $85</b><br>Mechanical exfoliation that removes the uppermost layer of dead skin cells from the face, leaving skin smooth and radiant!.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"http://beforethemakeup.setmore.com \" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>"
         },
         {
           "_name": "footer1",
@@ -937,8 +492,8 @@
     },
     "services.waxing.html": {
       "settings": {
-        "title": "Waxing",
-        "meta_descr": "Web Builder Description",
+        "title": "Before The Makeup Waxing",
+        "meta_descr": "Innovative aesthetics skin care and spa services provider located in Atlanta, GA",
         "order": 4
       },
       "components": [
@@ -1022,7 +577,7 @@
             "sticky": true,
             "logo": true,
             "showBrand": false,
-            "collapsed": false,
+            "collapsed": true,
             "hideButtons": true
           },
           "logo": {
@@ -1031,7 +586,7 @@
               "src": "@PROJECT_PATH@/assets/images/b4mlogo1-264x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "Home.html",
+              "link": "home.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1045,7 +600,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Before The <br>Make-up</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Home.html#features1-2\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Home.html#slider-h\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"services.facials.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Facials</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.facials.html#msg-box5-u\">Express Facial</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.facials.html#msg-box5-w\">Signature Facial</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.facials.html#msg-box5-y\">Chemical Peel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.facials.html#msg-box5-x\">Microdermabrasion</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Services.eyelashes.html#msg-box5-26\">Lashes</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Waxing</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.waxing.html#msg-box5-12\">Eye Brows</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.waxing.html#msg-box5-13\">Chin Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.waxing.html#msg-box5-19\">Full Face</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.waxing.html#msg-box5-19\">Lip Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.waxing.html#msg-box5-15\">Under Arms</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Specialty&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.specialty.html#msg-box5-1k\">Micro Current</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.specialty.html#msg-box5-1l\">Hot Stones</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://beforethemakeup.setmore.com \" aria-expanded=\"false\" target=\"_blank\">BOOK NOW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\"><span class=\"mbri-smile-face mbr-iconfont mbr-iconfont-btn\"></span>DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Home.html#features1-2\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Home.html#slider-h\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"services.facials.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Facials</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.facials.html#msg-box5-u\">Express Facial</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.facials.html#msg-box5-w\">Signature Facial</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.facials.html#msg-box5-y\">Chemical Peel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.facials.html#msg-box5-x\">Microdermabrasion</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Services.eyelashes.html#msg-box5-26\">Lashes</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"services.waxing.html\" aria-expanded=\"true\">Waxing</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.waxing.html#msg-box5-12\">Eye Brows</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.waxing.html#msg-box5-19\">Full Face</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.waxing.html#msg-box5-19\">Lip Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.waxing.html#msg-box5-15\">Under Arms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.waxing.html#msg-box5-12\">Chin Waxing</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"services.specialty.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Specialty&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.specialty.html#msg-box5-1k\">Micro Current</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.specialty.html#msg-box5-1l\">Hot Stones</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://beforethemakeup.setmore.com \" aria-expanded=\"false\" target=\"_blank\">BOOK NOW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\"><span class=\"mbri-smile-face mbr-iconfont mbr-iconfont-btn\"></span>DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -1183,77 +738,6 @@
           ],
           "_name": "msg-box5",
           "_styles": {
-            "P": {
-              "text-align": "left",
-              "font-family": "'Ubuntu', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
-              "font-size": "16px"
-            },
-            "H3": {
-              "text-align": "left",
-              "font-size": "22px",
-              "font-family": "'Ubuntu', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
-            },
-            "B": {
-              "text-align": "right",
-              "font-size": "22px"
-            }
-          },
-          "_anchor": "msg-box5-13",
-          "_params": {
-            "imageSize": "46",
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#fff",
-            "inverse": true,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/1497131334608-1400x790.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Chin<br>",
-          "text": "<b>&nbsp;15 min | $12</b><br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"http://beforethemakeup.setmore.com \" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK NOW</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_styles": {
             "H3": {
               "font-size": "22px",
               "font-family": "'Ubuntu', sans-serif",
@@ -1270,7 +754,7 @@
           },
           "_anchor": "msg-box5-14",
           "_params": {
-            "imageSize": "36",
+            "imageSize": "35",
             "paddingTop": 0,
             "paddingBottom": 0,
             "parallax": true,
@@ -1335,7 +819,7 @@
           },
           "_anchor": "msg-box5-19",
           "_params": {
-            "imageSize": "33",
+            "imageSize": "35",
             "paddingTop": 0,
             "paddingBottom": 0,
             "parallax": true,
@@ -1350,7 +834,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": true,
+            "inverse": false,
             "showTitle": true,
             "showText": true,
             "showButtons": true
@@ -1379,7 +863,7 @@
           },
           "title": "Lip",
           "text": "<b>15 min | $10</b><br><br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"http://beforethemakeup.setmore.com \" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK NOW</a>"
         },
         {
           "_tags": [
@@ -1394,7 +878,8 @@
             "H3": {
               "font-size": "22px",
               "font-family": "'Ubuntu', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "text-align": "right"
             },
             "B": {
               "font-size": "23px"
@@ -1449,6 +934,77 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"http://beforethemakeup.setmore.com \" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK NOW</a>"
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "text-align": "right",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-size": "16px"
+            },
+            "H3": {
+              "text-align": "right",
+              "font-size": "22px",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            },
+            "B": {
+              "text-align": "center",
+              "font-size": "22px"
+            }
+          },
+          "_anchor": "msg-box5-13",
+          "_params": {
+            "imageSize": "35",
+            "paddingTop": "0",
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/1497131334608-1400x790.jpg",
+              "link": " ",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<br>Chin<br>",
+          "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>15 min| $15</b><br><br></p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"http://beforethemakeup.setmore.com \" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK NOW</a>"
+        },
+        {
           "_name": "footer1",
           "_anchor": "footer1-17",
           "_params": {
@@ -1469,8 +1025,8 @@
     },
     "Contactus.html": {
       "settings": {
-        "title": "Contact Us",
-        "meta_descr": "Book an Appointment with Before the Makeup",
+        "title": "Before The Makeup Contact Us",
+        "meta_descr": "Book an Appointment with Before the Makeup Aesthetics Skin care and spa services provider located in Atlanta, GA",
         "order": 6
       },
       "components": [
@@ -1663,7 +1219,7 @@
             "sticky": true,
             "logo": true,
             "showBrand": false,
-            "collapsed": false,
+            "collapsed": true,
             "hideButtons": true
           },
           "logo": {
@@ -1686,7 +1242,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Before The <br>Make-up</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Home.html#features1-2\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Home.html#slider-h\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"services.facials.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Facials</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.facials.html#msg-box5-u\">Express Facial</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.facials.html#msg-box5-w\">Signature Facial</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.facials.html#msg-box5-y\">Chemical Peel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.facials.html#msg-box5-x\">Microdermabrasion</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Services.eyelashes.html#msg-box5-26\">Lashes</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Waxing</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.waxing.html#msg-box5-12\">Eye Brows</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.waxing.html#msg-box5-13\">Chin Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.waxing.html#msg-box5-19\">Full Face</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.waxing.html#msg-box5-19\">Lip Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.waxing.html#msg-box5-15\">Under Arms</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Specialty&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.specialty.html#msg-box5-1k\">Micro Current</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.specialty.html#msg-box5-1l\">Hot Stones</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://beforethemakeup.setmore.com \" aria-expanded=\"false\" target=\"_blank\">BOOK NOW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\"><span class=\"mbri-smile-face mbr-iconfont mbr-iconfont-btn\"></span>DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Home.html#features1-2\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Home.html#slider-h\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"services.facials.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Facials</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.facials.html#msg-box5-u\">Express Facial</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.facials.html#msg-box5-w\">Signature Facial</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.facials.html#msg-box5-y\">Chemical Peel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.facials.html#msg-box5-x\">Microdermabrasion</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Services.eyelashes.html#msg-box5-26\">Lashes</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"services.waxing.html\" aria-expanded=\"true\">Waxing</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.waxing.html#msg-box5-12\">Eye Brows</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.waxing.html#msg-box5-19\">Full Face</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.waxing.html#msg-box5-19\">Lip Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.waxing.html#msg-box5-15\">Under Arms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.waxing.html#msg-box5-12\">Chin Waxing</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"services.specialty.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Specialty&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.specialty.html#msg-box5-1k\">Micro Current</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.specialty.html#msg-box5-1l\">Hot Stones</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://beforethemakeup.setmore.com \" aria-expanded=\"false\" target=\"_blank\">BOOK NOW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\"><span class=\"mbri-smile-face mbr-iconfont mbr-iconfont-btn\"></span>DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -1754,8 +1310,8 @@
     },
     "services.specialty.html": {
       "settings": {
-        "title": "Specialty ",
-        "meta_descr": "Web Builder Description",
+        "title": "Before The Makeup Specialty ",
+        "meta_descr": "Innovative aesthetics skin care and spa services provider located in Atlanta, GA",
         "order": 3
       },
       "components": [
@@ -1839,7 +1395,7 @@
             "sticky": true,
             "logo": true,
             "showBrand": false,
-            "collapsed": false,
+            "collapsed": true,
             "hideButtons": true
           },
           "logo": {
@@ -1862,7 +1418,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Before The <br>Make-up</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Home.html#features1-2\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Home.html#slider-h\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"services.facials.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Facials</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.facials.html#msg-box5-u\">Express Facial</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.facials.html#msg-box5-w\">Signature Facial</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.facials.html#msg-box5-y\">Chemical Peel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.facials.html#msg-box5-x\">Microdermabrasion</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Services.eyelashes.html#msg-box5-26\">Lashes</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Waxing</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.waxing.html#msg-box5-12\">Eye Brows</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.waxing.html#msg-box5-13\">Chin Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.waxing.html#msg-box5-19\">Full Face</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.waxing.html#msg-box5-19\">Lip Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.waxing.html#msg-box5-15\">Under Arms</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Specialty&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.specialty.html#msg-box5-1k\">Micro Current</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.specialty.html#msg-box5-1l\">Hot Stones</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://beforethemakeup.setmore.com \" aria-expanded=\"false\" target=\"_blank\">BOOK NOW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\"><span class=\"mbri-smile-face mbr-iconfont mbr-iconfont-btn\"></span>DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Home.html#features1-2\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Home.html#slider-h\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"services.facials.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Facials</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.facials.html#msg-box5-u\">Express Facial</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.facials.html#msg-box5-w\">Signature Facial</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.facials.html#msg-box5-y\">Chemical Peel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.facials.html#msg-box5-x\">Microdermabrasion</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Services.eyelashes.html#msg-box5-26\">Lashes</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"services.waxing.html\" aria-expanded=\"true\">Waxing</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.waxing.html#msg-box5-12\">Eye Brows</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.waxing.html#msg-box5-19\">Full Face</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.waxing.html#msg-box5-19\">Lip Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.waxing.html#msg-box5-15\">Under Arms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.waxing.html#msg-box5-12\">Chin Waxing</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"services.specialty.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Specialty&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.specialty.html#msg-box5-1k\">Micro Current</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.specialty.html#msg-box5-1l\">Hot Stones</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://beforethemakeup.setmore.com \" aria-expanded=\"false\" target=\"_blank\">BOOK NOW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\"><span class=\"mbri-smile-face mbr-iconfont mbr-iconfont-btn\"></span>DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -2086,7 +1642,7 @@
     },
     "Services.eyelashes.html": {
       "settings": {
-        "title": "eyelashes",
+        "title": "Before The Makeup Eyelash Service",
         "meta_descr": "Web Builder Description",
         "order": 5
       },
@@ -2111,10 +1667,10 @@
               "font-family": "'PT Serif', serif"
             },
             ".link": {
-              "font-size": "1.15rem"
+              "font-size": "1.05rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.245rem"
+              "font-size": "1.137rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -2171,13 +1727,13 @@
             "sticky": true,
             "logo": true,
             "showBrand": false,
-            "collapsed": false,
+            "collapsed": true,
             "hideButtons": true
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/b4mlogo1-264x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logomakr-2xbn2j-232x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "Home.html",
@@ -2194,7 +1750,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Before The <br>Make-up</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Home.html#features1-2\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Home.html#slider-h\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"services.facials.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Facials</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.facials.html#msg-box5-u\">Express Facial</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.facials.html#msg-box5-w\">Signature Facial</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.facials.html#msg-box5-y\">Chemical Peel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.facials.html#msg-box5-x\">Microdermabrasion</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Services.eyelashes.html#msg-box5-26\">Lashes</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Waxing</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.waxing.html#msg-box5-12\">Eye Brows</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.waxing.html#msg-box5-13\">Chin Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.waxing.html#msg-box5-19\">Full Face</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.waxing.html#msg-box5-19\">Lip Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.waxing.html#msg-box5-15\">Under Arms</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Specialty&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.specialty.html#msg-box5-1k\">Micro Current</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.specialty.html#msg-box5-1l\">Hot Stones</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://beforethemakeup.setmore.com \" aria-expanded=\"false\" target=\"_blank\">BOOK NOW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\"><span class=\"mbri-smile-face mbr-iconfont mbr-iconfont-btn\"></span>DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Home.html#features1-2\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Home.html#slider-h\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"services.facials.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Facials</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.facials.html#msg-box5-u\">Express Facial</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.facials.html#msg-box5-w\">Signature Facial</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.facials.html#msg-box5-y\">Chemical Peel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.facials.html#msg-box5-x\">Microdermabrasion</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Services.eyelashes.html#msg-box5-26\">Lashes</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"services.waxing.html\" aria-expanded=\"true\">Waxing</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.waxing.html#msg-box5-12\">Eye Brows</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.waxing.html#msg-box5-19\">Full Face</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.waxing.html#msg-box5-19\">Lip Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.waxing.html#msg-box5-15\">Under Arms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.waxing.html#msg-box5-12\">Chin Waxing</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"services.specialty.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Specialty&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.specialty.html#msg-box5-1k\">Micro Current</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.specialty.html#msg-box5-1l\">Hot Stones</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://beforethemakeup.setmore.com \" aria-expanded=\"false\" target=\"_blank\">BOOK NOW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\"><span class=\"mbri-smile-face mbr-iconfont mbr-iconfont-btn\"></span>DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -2305,10 +1861,10 @@
               "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/14971339503321281759267-2000x1646-800x658.jpg",
-              "link": "",
+              "link": "http://beforethemakeup.setmore.com ",
               "alt": "",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": true
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -2342,6 +1898,451 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2016 Mobirise."
+        }
+      ]
+    },
+    "home.html": {
+      "settings": {
+        "main": true,
+        "title": "Before The Makeup home ",
+        "meta_descr": "Innovative aesthetics skin care and spa services provider located in Atlanta, GA",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "30px",
+              "font-family": "'PT Sans Narrow', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700"
+            },
+            ".navbar-toggler": {
+              "color": "#7a9162"
+            },
+            ".link, .dropdown-item": {
+              "color": "#7a9162",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i",
+              "font-family": "'PT Serif', serif"
+            },
+            ".link": {
+              "font-size": "1.05rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.137rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#d6d6d6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#e7e7e7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#efefef"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#7a9162",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ffffff!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#7a9162"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "bgColor": "#efefef",
+            "fontSize": "1.05",
+            "fontName": {
+              "name": "PT Serif",
+              "url": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i",
+              "css": "'PT Serif', serif"
+            },
+            "fontColor": "#7a9162",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logomakr-2xbn2j-232x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "Home.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "etsy",
+              "family": "socicon",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Before The <br>Make-up</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Home.html#features1-2\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Home.html#slider-h\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"services.facials.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Facials</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.facials.html#msg-box5-u\">Express Facial</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.facials.html#msg-box5-w\">Signature Facial</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.facials.html#msg-box5-y\">Chemical Peel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.facials.html#msg-box5-x\">Microdermabrasion</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Services.eyelashes.html#msg-box5-26\">Lashes</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"services.waxing.html\" aria-expanded=\"true\">Waxing</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.waxing.html#msg-box5-12\">Eye Brows</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.waxing.html#msg-box5-19\">Full Face</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.waxing.html#msg-box5-19\">Lip Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.waxing.html#msg-box5-15\">Under Arms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.waxing.html#msg-box5-12\">Chin Waxing</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"services.specialty.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Specialty&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.specialty.html#msg-box5-1k\">Micro Current</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.specialty.html#msg-box5-1l\">Hot Stones</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://beforethemakeup.setmore.com \" aria-expanded=\"false\" target=\"_blank\">BOOK NOW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\"><span class=\"mbri-smile-face mbr-iconfont mbr-iconfont-btn\"></span>DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "17px"
+            }
+          },
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": "6",
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/effl-touch-2000x13386.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.2",
+                "overlayColor": "#000000",
+                "contentAlign": "left",
+                "showTitle": false,
+                "title": "FULL SCREEN SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/hot-stone-massage-2000x729.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.4",
+                "contentAlign": "left",
+                "showTitle": false,
+                "title": "<br><div><br><div><br></div></div>",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Book An Appointment</a> "
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/14971339503321281759267-2000x1646.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.4",
+                "overlayColor": "#000000",
+                "contentAlign": "left",
+                "showTitle": false,
+                "title": "VIDEO SLIDE",
+                "showText": false,
+                "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/1497132261257320591891-2000x1101.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayColor": "#000000",
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "IMAGE SLIDE",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": false,
+            "bgColor": "#fff",
+            "showBullets": false
+          },
+          "_anchor": "slider-h",
+          "articleLayout": false
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".btn": {
+              "font-size": "14px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-4",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/hot-stone-massage-2000x729.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.9",
+            "overlayColor": "#222",
+            "showTitle": false,
+            "showText": false,
+            "showButton": true
+          },
+          "title": "ARTICLE HEADER",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://beforethemakeup.setmore.com \" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">COME SEE US</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#90a878"
+            },
+            ".btn": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "14px"
+            },
+            ".mbr-cards-col:nth-child(even) .card-title": {
+              "text-align": "center",
+              "font-size": "30px"
+            },
+            ".mbr-cards-col:nth-child(even) .card-subtitle SPAN": {
+              "font-size": "11px"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
+              "color": "#efefef"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-title": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "30px"
+            }
+          },
+          "_anchor": "features1-2",
+          "_params": {
+            "columnsColor": "#90a878",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "4",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/microdermabrasionfacial-2000x2500.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "services.facials.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Facials<br><br>",
+          "subtitle1": "<p><a href=\"services.facials.html\"><b>Signature</b></a><br><a href=\"services.facials.html\"><b>Express</b></a><a href=\"Home.html#features1-2\"></a><br><a href=\"services.facials.html\"><b>Peels</b></a><br><a href=\"services.facials.html\"><b>MicroDerm</b></a></p>",
+          "caption1": "",
+          "button1": "<a data-app-btn=\"true\" href=\"http://beforethemakeup.setmore.com \" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Book Now</a> ",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/1497132576391-2000x1206-800x482.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "services.specialty.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Specialties<br><br>",
+          "subtitle2": "<a href=\"services.specialty.html\"><b>Non Surgical Face-Lift</b></a><br><b>&nbsp;<a href=\"services.specialty.html\">Hot Stones</a></b>",
+          "caption2": "",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">Book Now</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/1497129949949562149077-2000x1591-800x636.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "services.waxing.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Waxing<br><br>",
+          "subtitle3": "<b><a href=\"Home.html#features1-2\">Eye Brows</a> </b><br><a href=\"services.waxing.html\"><b>Chin</b></a><br><a href=\"services.waxing.html\"><b>Full Face</b></a><br><a href=\"services.waxing.html\"><b>Lip</b></a><br><br>",
+          "caption3": "",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Book Now</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/14971339503321281759267-2000x1646-800x658.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "Services.eyelashes.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Eye Lashes<br>&nbsp;",
+          "subtitle4": "<b><a href=\"Services.eyelashes.html\">Tab Extentions</a>&nbsp;</b><br><b><a href=\"Services.eyelashes.html\">Strip Extentions</a><br></b><br><br>",
+          "caption4": "",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">Book Now</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff",
+              "font-size": "36px",
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0",
+              "text-align": "center",
+              "font-size": "25px"
+            },
+            ".btn": {
+              "font-size": "14px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-2g",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showButtons": true,
+            "showTitle": true,
+            "showText": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://beforethemakeup.setmore.com \" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK NOW</a>",
+          "title": "Schedule an Appointment",
+          "text": "Before the Make-up...there's beauty."
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-2",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Before The Makeup."
         }
       ]
     }
