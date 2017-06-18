@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Services.eyelashes.html",
+    "currentPage": "Contactus.html",
     "name": "beforethemakeup1.1",
     "theme": {
       "name": "mobirise3",
@@ -619,7 +619,7 @@
             "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/effl-touch-2000x13388.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/effl-touch-2000x13382.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1655,6 +1655,12 @@
           "_styles": {
             ".form-control-label": {
               "color": "#232323"
+            },
+            "SMALL": {
+              "font-size": "46px",
+              "color": "#000000",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
             }
           },
           "_anchor": "form1-2j",
@@ -1671,10 +1677,10 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "showTitle": true,
-            "showSubTitle": false
+            "showSubTitle": true
           },
-          "title": "CONTACT US. BEFORE THE MAKEUP!",
-          "subtitle": "Let us know how we can help.",
+          "title": "CONTACT US... BEFORE THE MAKEUP!<br><br>",
+          "subtitle": "678-667-1221 / 954-864-3010",
           "form": {
             "action": "connie@beforethemakeup.net",
             "alerts": {
@@ -1712,8 +1718,8 @@
           "_anchor": "map1-2l",
           "_params": {
             "googleMap": {
-              "address": "8046 Roswell Rd #100B, \nAtlanta, GA 30350",
-              "placeId": "Ei04MDQ2IFJvc3dlbGwgUmQgIzEwMGIsIEF0bGFudGEsIEdBIDMwMzUwLCBVU0E",
+              "address": "8046 Roswell Rd #100A, Suite 1 \nAtlanta, GA 30350\n",
+              "placeId": "Eio4MDQ2IFJvc3dlbGwgUmQgIzEsIEF0bGFudGEsIEdBIDMwMzUwLCBVU0E",
               "state": "ok",
               "stateDetails": ""
             }
@@ -1896,13 +1902,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#b3b3b3"
+              "background": "#d6d6d6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#c4c4c4!important"
+              "background": "#e7e7e7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#cccccc"
+              "background": "#efefef"
             },
             ".bg-color.transparent .link": {
               "color": "#7a9162",
@@ -2170,7 +2176,7 @@
             }
           },
           "title": "45 mins- $55<br><br>",
-          "text": "<b>\"Hot Stone\"<br>Back Treatment</b><br><br>",
+          "text": "<b>\"Hot Stone\"<br>Back Treatment</b><br>Hot Stones back treatment includes a cleanse, massage, mask, and exfoliation.Each session promotes deeper muscle relaxation through the placement of smooth, water-heated stones at key points on the body. ... The hot stones have a sedative effect that can relieve chronic pain, reduce stress and promote deep relaxation.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"http://beforethemakeup.setmore.com \" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK NOW</a>"
         },
         {
