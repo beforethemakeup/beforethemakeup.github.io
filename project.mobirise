@@ -125,7 +125,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/b4mlogo1-264x128.png",
+              "src": "@PROJECT_PATH@/assets/images/b4mlogoclear-214x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "Home.html",
@@ -160,7 +160,7 @@
             "autoplay": true,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "timeout": "6",
+            "timeout": "4",
             "slides": [
               {
                 "active": false,
@@ -194,6 +194,21 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Book An Appointment</a> "
               },
               {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/microcurrent-pic-2000x1739.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayColor": "#000000",
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "IMAGE SLIDE",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
                 "active": false,
                 "image": "@PROJECT_PATH@/assets/images/14971339503321281759267-2000x1646.jpg",
                 "playVideo": false,
@@ -210,8 +225,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/1497132261257320591891-2000x1101.jpg",
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/1497131334608-2000x1128.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -604,7 +619,7 @@
             "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/effl-touch-2000x13384.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/effl-touch-2000x13388.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -784,7 +799,7 @@
             }
           },
           "title": "Signature Facial",
-          "text": "<b>1 hr | $75</b><br>A customized facial that involves a skin consultation accompanied with a deep cleansing, steam, exfoliants, extractions, masque, hand massage. Along with moisturizer, spf and eye serum. <br>",
+          "text": "<b>60 min | $75</b><br>A customized facial that involves a skin consultation accompanied with a deep cleansing, steam, exfoliants, extractions, masque, hand massage. Along with moisturizer, spf and eye serum. <br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"http://beforethemakeup.setmore.com\" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>"
         },
         {
@@ -913,7 +928,7 @@
             }
           },
           "title": "Microdermabrasion",
-          "text": "<b>1hr | $85</b><br>Mechanical exfoliation that removes the uppermost layer of dead skin cells from the face, leaving skin smooth and radiant!.",
+          "text": "<b>60 min | $85</b><br>Mechanical exfoliation that removes the uppermost layer of dead skin cells from the face, leaving skin smooth and radiant!.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"http://beforethemakeup.setmore.com\" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>"
         },
         {
@@ -1054,7 +1069,7 @@
           "_name": "menu",
           "_anchor": "menu-z",
           "_params": {
-            "bgColor": "#cccccc",
+            "bgColor": "#efefef",
             "fontSize": "1.15",
             "fontName": {
               "name": "PT Serif",
@@ -1588,6 +1603,51 @@
           "meta": ""
         },
         {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff",
+              "font-size": "36px",
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0",
+              "text-align": "center",
+              "font-size": "25px"
+            },
+            ".btn": {
+              "font-size": "14px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-2i",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showButtons": true,
+            "showTitle": true,
+            "showText": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://beforethemakeup.setmore.com \" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK NOW</a>",
+          "title": "Schedule an Appointment",
+          "text": "Before the makeup...there's beauty."
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -1708,13 +1768,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#b3b3b3"
+              "background": "#d6d6d6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#c4c4c4!important"
+              "background": "#e7e7e7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#cccccc"
+              "background": "#efefef"
             },
             ".bg-color.transparent .link": {
               "color": "#7a9162",
@@ -1743,7 +1803,7 @@
           "_name": "menu",
           "_anchor": "menu-k",
           "_params": {
-            "bgColor": "#cccccc",
+            "bgColor": "#efefef",
             "fontSize": "1.05",
             "fontName": {
               "name": "PT Serif",
@@ -1797,51 +1857,6 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2017 Before the Makeup."
-        },
-        {
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#fff",
-              "font-size": "36px",
-              "text-align": "center"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#a0a0a0",
-              "text-align": "center",
-              "font-size": "25px"
-            },
-            ".btn": {
-              "font-size": "14px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box2",
-          "_anchor": "msg-box2-2i",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "inverse": true,
-            "showButtons": true,
-            "showTitle": true,
-            "showText": true
-          },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://beforethemakeup.setmore.com \" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK NOW</a>",
-          "title": "Schedule an Appointment",
-          "text": "Before the makeup...there's beauty."
         }
       ]
     },
@@ -1919,7 +1934,7 @@
           "_name": "menu",
           "_anchor": "menu-1h",
           "_params": {
-            "bgColor": "#cccccc",
+            "bgColor": "#efefef",
             "fontSize": "1.15",
             "fontName": {
               "name": "PT Serif",
@@ -1973,7 +1988,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/microcurrent-pic-2000x1739.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/hot-stone-massage-2000x729.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2084,7 +2099,7 @@
             }
           },
           "title": "1 &nbsp;Treatment- $55<br>5 &nbsp;Treatments -$140",
-          "text": "<b>Micro Current&nbsp;</b><br><b>\"Non Surgical Face lift\"<br></b><br><br>",
+          "text": "<b>Micro Current&nbsp;</b><br><b>\"Non Surgical Face lift\"<br></b>A microcurrent facial emits extremely low-voltage electrical currents (hence ‘micro’ current), which mirror your own body’s electrical currents, on a cellular level to repair damaged skin and stimulate collagen and elastin production. This treatment is often referred to as “facial toning” because it’s like a workout for your face, whereby skin cells are broken down and then grow back stronger, the same way your muscles do after lifting weights.  “It works simultaneously to repair collagen in the deepest layer of your skin, while gently erasing signs of aging in the top layer of your skin.<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"http://beforethemakeup.setmore.com \" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK NOW</a>"
         },
         {
@@ -2219,51 +2234,6 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://beforethemakeup.setmore.com \" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK NOW</a>",
           "title": "Schedule an Appointment",
           "text": "Before the makeup...there's beauty."
-        },
-        {
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#fff",
-              "font-size": "36px",
-              "text-align": "center"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#a0a0a0",
-              "text-align": "center",
-              "font-size": "25px"
-            },
-            ".btn": {
-              "font-size": "14px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box2",
-          "_anchor": "msg-box2-2t",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "inverse": true,
-            "showButtons": true,
-            "showTitle": true,
-            "showText": true
-          },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://beforethemakeup.setmore.com \" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK NOW</a>",
-          "title": "Schedule an Appointment",
-          "text": "Before the makeup...there's beauty."
         }
       ]
     },
@@ -2303,13 +2273,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#b3b3b3"
+              "background": "#d6d6d6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#c4c4c4!important"
+              "background": "#e7e7e7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#cccccc"
+              "background": "#efefef"
             },
             ".bg-color.transparent .link": {
               "color": "#7a9162",
@@ -2341,7 +2311,7 @@
           "_name": "menu",
           "_anchor": "menu-23",
           "_params": {
-            "bgColor": "#cccccc",
+            "bgColor": "#efefef",
             "fontSize": "1.05",
             "fontName": {
               "name": "PT Serif",

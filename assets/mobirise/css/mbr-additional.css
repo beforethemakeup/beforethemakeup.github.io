@@ -860,6 +860,19 @@ h6,
 #header3-2o .mbr-section-subtitle {
   text-align: center;
 }
+#msg-box2-2i .mbr-section-title {
+  color: #fff;
+  font-size: 36px;
+  text-align: center;
+}
+#msg-box2-2i .mbr-section-subtitle {
+  color: #a0a0a0;
+  text-align: center;
+  font-size: 25px;
+}
+#msg-box2-2i .btn {
+  font-size: 14px;
+}
 #form1-2j .form-control-label {
   color: #232323;
 }
@@ -898,19 +911,19 @@ h6,
 }
 #menu-k .link[aria-expanded="true"],
 #menu-k .dropdown-menu {
-  background: #b3b3b3;
+  background: #d6d6d6;
 }
 #menu-k .nav-dropdown-sm .link:focus,
 #menu-k .nav-dropdown-sm .link:hover,
 #menu-k .nav-dropdown-sm .dropdown-item:focus,
 #menu-k .nav-dropdown-sm .dropdown-item:hover {
-  background: #c4c4c4!important;
+  background: #e7e7e7!important;
 }
 #menu-k .navbar,
 #menu-k .nav-dropdown-sm,
 #menu-k .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-k .nav-dropdown-sm .dropdown-menu {
-  background: #cccccc;
+  background: #efefef;
 }
 #menu-k .bg-color.transparent .link {
   color: #7a9162;
@@ -936,19 +949,6 @@ h6,
 #menu-k .close-icon::before,
 #menu-k .close-icon::after {
   background-color: #7a9162;
-}
-#msg-box2-2i .mbr-section-title {
-  color: #fff;
-  font-size: 36px;
-  text-align: center;
-}
-#msg-box2-2i .mbr-section-subtitle {
-  color: #a0a0a0;
-  text-align: center;
-  font-size: 25px;
-}
-#msg-box2-2i .btn {
-  font-size: 14px;
 }
 
 
@@ -1080,19 +1080,6 @@ h6,
 #msg-box2-2s .btn {
   font-size: 14px;
 }
-#msg-box2-2t .mbr-section-title {
-  color: #fff;
-  font-size: 36px;
-  text-align: center;
-}
-#msg-box2-2t .mbr-section-subtitle {
-  color: #a0a0a0;
-  text-align: center;
-  font-size: 25px;
-}
-#msg-box2-2t .btn {
-  font-size: 14px;
-}
 
 
 
@@ -1130,19 +1117,19 @@ h6,
 }
 #menu-23 .link[aria-expanded="true"],
 #menu-23 .dropdown-menu {
-  background: #b3b3b3;
+  background: #d6d6d6;
 }
 #menu-23 .nav-dropdown-sm .link:focus,
 #menu-23 .nav-dropdown-sm .link:hover,
 #menu-23 .nav-dropdown-sm .dropdown-item:focus,
 #menu-23 .nav-dropdown-sm .dropdown-item:hover {
-  background: #c4c4c4!important;
+  background: #e7e7e7!important;
 }
 #menu-23 .navbar,
 #menu-23 .nav-dropdown-sm,
 #menu-23 .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-23 .nav-dropdown-sm .dropdown-menu {
-  background: #cccccc;
+  background: #efefef;
 }
 #menu-23 .bg-color.transparent .link {
   color: #7a9162;
