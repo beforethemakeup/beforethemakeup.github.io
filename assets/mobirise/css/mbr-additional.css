@@ -731,19 +731,19 @@ h6,
 }
 #menu-z .link[aria-expanded="true"],
 #menu-z .dropdown-menu {
-  background: #b3b3b3;
+  background: #d6d6d6;
 }
 #menu-z .nav-dropdown-sm .link:focus,
 #menu-z .nav-dropdown-sm .link:hover,
 #menu-z .nav-dropdown-sm .dropdown-item:focus,
 #menu-z .nav-dropdown-sm .dropdown-item:hover {
-  background: #c4c4c4!important;
+  background: #e7e7e7!important;
 }
 #menu-z .navbar,
 #menu-z .nav-dropdown-sm,
 #menu-z .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-z .nav-dropdown-sm .dropdown-menu {
-  background: #cccccc;
+  background: #efefef;
 }
 #menu-z .bg-color.transparent .link {
   color: #7a9162;
@@ -795,13 +795,21 @@ h6,
 #msg-box5-12 P {
   font-family: 'Ubuntu', sans-serif;
 }
+#msg-box5-19 H3 {
+  font-size: 22px;
+  font-family: 'Ubuntu', sans-serif;
+}
+#msg-box5-19 B {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 22px;
+}
 #msg-box5-13 P {
   text-align: left;
   font-family: 'Ubuntu', sans-serif;
   font-size: 16px;
 }
 #msg-box5-13 H3 {
-  text-align: left;
+  text-align: right;
   font-size: 22px;
   font-family: 'Ubuntu', sans-serif;
 }
@@ -812,24 +820,17 @@ h6,
 #msg-box5-14 H3 {
   font-size: 22px;
   font-family: 'Ubuntu', sans-serif;
-  text-align: right;
+  text-align: left;
 }
 #msg-box5-14 P {
   font-family: 'Ubuntu', sans-serif;
 }
 #msg-box5-14 B {
   font-size: 22px;
+  text-align: center;
 }
 #msg-box5-14 SPAN {
-  text-align: left;
-}
-#msg-box5-19 H3 {
-  font-size: 22px;
-  font-family: 'Ubuntu', sans-serif;
-}
-#msg-box5-19 B {
-  font-family: 'Ubuntu', sans-serif;
-  font-size: 22px;
+  text-align: center;
 }
 #msg-box5-15 P {
   font-family: 'Ubuntu', sans-serif;
@@ -1092,6 +1093,9 @@ h6,
 
 
 
+
+
+
 #menu-23 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1187,6 +1191,18 @@ h6,
 #msg-box5-26 P {
   font-family: 'Ubuntu', sans-serif;
   text-align: left;
+}
+#msg-box5-2w H3 {
+  font-size: 23px;
+  font-family: 'Ubuntu', sans-serif;
+  text-align: right;
+}
+#msg-box5-2w B {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 20px;
+}
+#msg-box5-2w P {
+  font-family: 'Ubuntu', sans-serif;
 }
 #msg-box2-2p .mbr-section-title {
   color: #fff;
