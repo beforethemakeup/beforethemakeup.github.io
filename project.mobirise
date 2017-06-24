@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "services-waxing.html",
+    "currentPage": "index.html",
     "name": "beforethemakeup1.1",
     "theme": {
       "name": "mobirise3",
@@ -33,8 +33,8 @@
   "pages": {
     "services-facials.html": {
       "settings": {
-        "title": "before the makeup facials services",
-        "meta_descr": "Innovative Atlanta Skin care and Facial Spa Services\n",
+        "title": "Facials Services",
+        "meta_descr": "Innovative Atlanta Skin care and Facial Spa Services\n<script>\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\n\n  ga('create', 'UA-101618904-1', 'auto');\n  ga('send', 'pageview');\n\n</script>\n",
         "order": 2
       },
       "components": [
@@ -537,8 +537,8 @@
     },
     "services-specialty.html": {
       "settings": {
-        "title": "before the makeup specialty ",
-        "meta_descr": "Innovative Atlanta Skin care and Facial Spa Services\n",
+        "title": "Specialty Services",
+        "meta_descr": "Innovative Atlanta Skin care and Facial Spa Services\n<script>\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\n\n  ga('create', 'UA-101618904-1', 'auto');\n  ga('send', 'pageview');\n\n</script>\n",
         "order": 3
       },
       "components": [
@@ -914,8 +914,8 @@
     },
     "services-waxing.html": {
       "settings": {
-        "title": "before the makeup waxing",
-        "meta_descr": "Innovative Atlanta Skin care and Facial Spa Services\n",
+        "title": "Waxing Services",
+        "meta_descr": "Innovative Atlanta Skin care and Facial Spa Services\n<script>\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\n\n  ga('create', 'UA-101618904-1', 'auto');\n  ga('send', 'pageview');\n\n</script>\n",
         "order": 4
       },
       "components": [
@@ -1496,8 +1496,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "before the makeup-home ",
-        "meta_descr": "Innovative Atlanta Skin care and Facial Spa Services",
+        "title": "Before the Makeup-Home ",
+        "meta_descr": "Innovative Atlanta Skin care and Facial Spa Services\n<script>\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\n\n  ga('create', 'UA-101618904-1', 'auto');\n  ga('send', 'pageview');\n\n</script>",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -1626,7 +1626,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/effl-touch-2000x13382.jpg",
+                "image": "@PROJECT_PATH@/assets/images/effl-touch-2000x13387.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -1955,8 +1955,8 @@
     },
     "services-eyelashes.html": {
       "settings": {
-        "title": "before the makeup eyelash services",
-        "meta_descr": "Aesthetics Skin care and Eyelash services",
+        "title": "Eyelash Services",
+        "meta_descr": "Innovative Atlanta Skin care and Facial Spa Services\n<script>\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\n\n  ga('create', 'UA-101618904-1', 'auto');\n  ga('send', 'pageview');\n\n</script>\n\n",
         "order": 5
       },
       "components": [
@@ -2197,23 +2197,6 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"http://beforethemakeup.setmore.com \" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>"
         },
         {
-          "_name": "footer1",
-          "_anchor": "footer1-28",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2017 Before the Makeup."
-        },
-        {
           "_tags": [
             "Theme"
           ],
@@ -2228,7 +2211,8 @@
             "B": {
               "font-family": "'Ubuntu', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
-              "font-size": "20px"
+              "font-size": "20px",
+              "text-align": "left"
             },
             "P": {
               "font-family": "'Ubuntu', sans-serif",
@@ -2284,6 +2268,23 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"http://beforethemakeup.setmore.com \" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK NOW</a>"
         },
         {
+          "_name": "footer1",
+          "_anchor": "footer1-28",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Before the Makeup."
+        },
+        {
           "_styles": {
             ".mbr-section-title": {
               "color": "#fff",
@@ -2332,8 +2333,8 @@
     },
     "contactus.html": {
       "settings": {
-        "title": "before the makeup contact us",
-        "meta_descr": "Book an Appointment with Before the Makeup Aesthetics and Skin care and Eyelash services",
+        "title": "Contact Us",
+        "meta_descr": "Book an Appointment with Before the Makeup Aesthetics and Skin care and Eyelash services.\nInnovative Atlanta Skin care and Facial Spa Services\n<script>\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\n\n  ga('create', 'UA-101618904-1', 'auto');\n  ga('send', 'pageview');\n\n</script>\n\n\n",
         "order": 6
       },
       "components": [
