@@ -5,6 +5,8 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Arimo:400,700);
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 
 
@@ -571,9 +573,6 @@ h6,
 
 
 
-
-
-
 #menu-1h .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -657,31 +656,12 @@ h6,
   text-align: right;
   font-family: 'Oswald', sans-serif;
 }
-#msg-box5-1k H3 {
-  font-size: 23px;
-  font-family: 'Ubuntu', sans-serif;
-  text-align: right;
+#features3-2x H5 {
+  font-family: 'Oxygen', sans-serif;
 }
-#msg-box5-1k B {
-  font-family: 'Ubuntu', sans-serif;
-  font-size: 22px;
-}
-#msg-box5-1k P {
-  font-family: 'Ubuntu', sans-serif;
-}
-#msg-box5-1l P {
-  text-align: left;
-  font-family: 'Ubuntu', sans-serif;
-  font-size: 16px;
-}
-#msg-box5-1l H3 {
-  text-align: right;
-  font-size: 23px;
-  font-family: 'Ubuntu', sans-serif;
-}
-#msg-box5-1l B {
-  text-align: left;
-  font-size: 22px;
+#features3-2x H4 {
+  text-align: center;
+  font-family: 'Arimo', sans-serif;
 }
 #msg-box2-2s .mbr-section-title {
   color: #fff;
@@ -971,6 +951,12 @@ h6,
 #features1-2 .mbr-cards-col:nth-child(odd) .card-title {
   font-family: 'Montserrat', sans-serif;
   font-size: 30px;
+}
+#features1-2 .mbr-cards-col:nth-child(even) .card-subtitle B {
+  color: #f3c649;
+}
+#features1-2 .mbr-cards-col:nth-child(even) .card-subtitle {
+  color: #f3c649;
 }
 #msg-box2-2g .mbr-section-title {
   color: #fff;
