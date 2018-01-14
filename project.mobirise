@@ -1620,7 +1620,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/effl-touch-2000x13384.jpg",
+                "image": "@PROJECT_PATH@/assets/images/effl-touch-2000x13386.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
