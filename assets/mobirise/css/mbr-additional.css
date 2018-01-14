@@ -4,7 +4,7 @@
 @import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Arimo:400,700);
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower);
@@ -27,11 +27,11 @@ body,
 input,
 textarea,
 .mbr-company .list-group-text {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 .mbr-footer-content li,
 .mbr-footer .mbr-contacts li {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 .btn,
 .alert,
@@ -954,9 +954,14 @@ h6,
 }
 #features1-2 .mbr-cards-col:nth-child(even) .card-subtitle B {
   color: #f3c649;
+  font-size: 18px;
 }
 #features1-2 .mbr-cards-col:nth-child(even) .card-subtitle {
   color: #f3c649;
+  font-size: 18px;
+}
+#features1-2 .mbr-cards-col:nth-child(odd) .card-subtitle B {
+  font-size: 18px;
 }
 #msg-box2-2g .mbr-section-title {
   color: #fff;

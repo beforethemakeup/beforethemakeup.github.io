@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "services-specialty.html",
+    "currentPage": "index.html",
     "name": "beforethemakeup1.1",
     "theme": {
       "name": "mobirise3",
@@ -14,7 +14,7 @@
         "dangerColor": "#f28281",
         "titleFont": "Montserrat",
         "subtitleFont": "Lora",
-        "textFont": "Raleway",
+        "textFont": "Open Sans",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": true,
@@ -718,7 +718,7 @@
             "showButtons": true,
             "paddingTop": "2",
             "paddingBottom": "1",
-            "columns": "6",
+            "columns": "5",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -756,7 +756,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/hot-stone-couple-1400x936.jpg",
+              "src": "@PROJECT_PATH@/assets/images/teethwhitng-200x150.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -778,18 +778,18 @@
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/windows-books.jpg",
+              "src": "@PROJECT_PATH@/assets/images/butt-lift-1-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "services-specialty.html#features3-2x",
               "alt": "",
               "title": ""
             }
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+              "src": "file:///C:/Program%20Files%20(x86)/Mobirise4/resources/app.asar/web/app/builder/../../app/themes/mobirise3/components/_images/gallery/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -804,9 +804,9 @@
           "title2": "Dermaplaning",
           "subtitle2": "",
           "caption2": "Treatments simultaneously provides a superior level of exfoliation by removing the oldest layer of dead skin cells and built up debris and peach fuzz. It improves the absorption of skincare while creating a flawless canvas for make- up. There is an immediate <i>reduction in the appearance of fine lines</i> and wrinkles as well as immediate improvement in skin tone and texture. Smooth, radiant, glowing skin is instantly revealed.",
-          "title3": "Hot Stone Treatment",
+          "title3": "Enhancements",
           "subtitle3": "",
-          "caption3": "Hot Stones back treatment includes a cleanse, massage, mask, and exfoliation.Each session promotes deeper muscle relaxation through the placement of smooth, water-heated stones at key points on the body. ... The hot stones have a sedative effect that can relieve chronic pain, reduce stress and promote deep relaxation..",
+          "caption3": "Our enhancement services will provide exfoliation.Each session promotes deeper muscle relaxation and can have a sedative effect that can relieve chronic pain, reduce stress and promote deep relaxation..",
           "title4": "Microcurrent",
           "subtitle4": "",
           "caption4": "A microcurrent facial emits extremely low-voltage electrical currents (hence ‘micro’ current), which mirror your own body’s electrical currents, on a cellular level to repair damaged skin and stimulate collagen and elastin production. This treatment is often referred to as “facial sculpting” because it’s like a workout for your face, whereby skin cells are broken down and then grow back stronger, the same way your muscles do after lifting weights. “It works simultaneously to repair collagen in the deepest layer of your skin, while gently erasing signs of aging in the top layer of your skin",
@@ -1620,7 +1620,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/effl-touch-2000x13382.jpg",
+                "image": "@PROJECT_PATH@/assets/images/effl-touch-2000x13383.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -1767,10 +1767,15 @@
               "font-size": "30px"
             },
             ".mbr-cards-col:nth-child(even) .card-subtitle B": {
-              "color": "#f3c649"
+              "color": "#f3c649",
+              "font-size": "18px"
             },
             ".mbr-cards-col:nth-child(even) .card-subtitle": {
-              "color": "#f3c649"
+              "color": "#f3c649",
+              "font-size": "18px"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-subtitle B": {
+              "font-size": "18px"
             }
           },
           "_anchor": "features1-2",
@@ -1799,14 +1804,13 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/microdermabrasionfacial-2000x2500.jpg",
+              "src": "@PROJECT_PATH@/assets/images/microdermabrasionfacial-1-2000x2500.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "services.facials.html",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
           "title1": "Facials<br><br>",
@@ -1821,12 +1825,11 @@
               "active": true,
               "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
           "title2": "Specialties<br><br>",
-          "subtitle2": "<b><a href=\"services.specialty.html\">Microneedle</a></b><br><a href=\"services-specialty.html#features3-2x\"><b>Microcurrent</b></a><br><b>&nbsp;<a href=\"services-specialty.html#features3-2x\">Hot Stones</a></b><br><b><a href=\"services-specialty.html#features3-2x\">Dermaplane</a></b><br><font color=\"#f3c649\"><b><a href=\"services-specialty.html#features3-2x\">Body Sculpting</a></b></font>",
+          "subtitle2": "<b><a href=\"services.specialty.html\">Microneedle</a></b><br><a href=\"services-specialty.html#features3-2x\"><b>Microcurrent</b></a><br><b>&nbsp;</b><b><a href=\"services-specialty.html#features3-2x\">Dermaplane</a></b><br><font color=\"#f3c649\"><b><a href=\"services-specialty.html#features3-2x\">Body Sculpting</a></b></font>",
           "caption2": "",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">Book Now</a>",
           "media3": {
