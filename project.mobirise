@@ -150,7 +150,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Before The <br>Make-up</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Home.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"services.facials.html\" aria-expanded=\"true\">Treatments</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.specialty.html\" aria-expanded=\"false\">Specialty </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.specialty.html\" aria-expanded=\"false\">Body Contouring</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.facials.html\" aria-expanded=\"false\">Facials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Services.eyelashes.html#msg-box5-26\">Enhancements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.waxing.html\" aria-expanded=\"false\">Facial &amp; Body Waxing</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html#form1-2j\" aria-expanded=\"false\">Contact Us<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\"><span class=\"mbri-smile-face mbr-iconfont mbr-iconfont-btn\"></span>DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Home.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"services.facials.html\" aria-expanded=\"false\">Treatments</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.specialty.html\" aria-expanded=\"true\">Specialty </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.facials.html\" aria-expanded=\"true\">Facials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Services.eyelashes.html#msg-box5-26\">Enhancements</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"services.waxing.html\" aria-expanded=\"false\">Waxing</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.waxing.html#msg-box5-12\">Eye Brows</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.waxing.html#msg-box5-13\">Chin Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.waxing.html#msg-box5-19\">Full Face</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.waxing.html#msg-box5-19\">Lip Waxing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"services.waxing.html#msg-box5-15\">Under Arms</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html#form1-2j\" aria-expanded=\"false\">Contact Us<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\"><span class=\"mbri-smile-face mbr-iconfont mbr-iconfont-btn\"></span>DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -238,7 +238,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/butt-lift-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/effleurage-blk-1-1400x1400.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -313,7 +313,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/1497131178302-1400x1400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/gezichtsbehandeling1-1400x1251.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -388,7 +388,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/1497131178302-1400x1400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/1497133051026-2000x1380.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -463,7 +463,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/liposuction-bimc-580x387.jpg",
+              "src": "@PROJECT_PATH@/assets/images/14971321578861322759887-2000x1333.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -1586,7 +1586,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/hot-stone-massage-2000x7292.jpg",
+                "image": "@PROJECT_PATH@/assets/images/hot-stone-massage-2000x7295.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -1688,7 +1688,7 @@
             "paddingTop": "0",
             "paddingBottom": "0",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/hot-stone-massage-2000x7292.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/hot-stone-massage-2000x7295.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -2385,7 +2385,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/hot-stone-massage-2000x7292.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/hot-stone-massage-2000x7295.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
