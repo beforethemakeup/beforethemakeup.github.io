@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "contact-us.html",
     "name": "beforethemakeup1.1-clone",
     "theme": {
       "name": "mobirise3",
@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 155,
+    "uniqCompNum": 230,
     "versionPublish": "4.5.4",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -59,10 +59,10 @@
               "googleLink": "null"
             },
             ".navbar-toggler": {
-              "color": "#f28281"
+              "color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#f28281",
+              "color": "#000000",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "font-family": "'Montserrat', sans-serif"
             },
@@ -85,7 +85,7 @@
               "background": "#efefef"
             },
             ".bg-color.transparent .link": {
-              "color": "#f28281",
+              "color": "#000000",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -105,7 +105,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#f28281"
+              "background-color": "#000000"
             }
           },
           "_tags": [
@@ -595,10 +595,10 @@
               "googleLink": "null"
             },
             ".navbar-toggler": {
-              "color": "#f28281"
+              "color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#f28281",
+              "color": "#000000",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "font-family": "'Montserrat', sans-serif"
             },
@@ -621,7 +621,7 @@
               "background": "#efefef"
             },
             ".bg-color.transparent .link": {
-              "color": "#f28281",
+              "color": "#000000",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -641,7 +641,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#f28281"
+              "background-color": "#000000"
             }
           },
           "_tags": [
@@ -886,7 +886,7 @@
           },
           "title": "DERMAPLANE",
           "text": "Dermaplaning is a skin resurfacing procedure that uses a special surgical blade to scrape away the surface layer of dead skin cells and fine hairs from the face. It improves the absorption of skincare while creating a flawless canvas for make- up. There is an immediate reduction in the appearance of fine lines and wrinkles as well as immediate improvement in skin tone and texture. Smooth, radiant, glowing skin is instantly revealed.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">$90</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">$95</a>",
           "_tags": [
             "Theme"
           ],
@@ -961,7 +961,7 @@
           },
           "title": "MICROCURRENT",
           "text": "Also known as the vampire facial, is the latest technique in improving the appearance of fine lines, wrinkles, scars (acne, surgical, burn), stretch marks, pore size, skin tone and texture. When moved across the skin’s surface it stimulates natural collagen reproduction, while creating channels in the skin. These channels allow nutrients to enter deep into the c ells found in the dermis. This increased absorption (up to 80%) of active ingredients create stimulated repair and faster resurfacing results<i>.</i>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">$75</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">$90</a>",
           "_tags": [
             "Theme"
           ],
@@ -1058,10 +1058,10 @@
               "googleLink": "null"
             },
             ".navbar-toggler": {
-              "color": "#f28281"
+              "color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#f28281",
+              "color": "#000000",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "font-family": "'Montserrat', sans-serif"
             },
@@ -1084,7 +1084,7 @@
               "background": "#efefef"
             },
             ".bg-color.transparent .link": {
-              "color": "#f28281",
+              "color": "#000000",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1104,7 +1104,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#f28281"
+              "background-color": "#000000"
             }
           },
           "_tags": [
@@ -1208,7 +1208,7 @@
             "paddingBottom": "0",
             "bgColor": "#90a878"
           },
-          "title": "Face &amp; Body Waxing",
+          "title": "&nbsp;Waxing",
           "meta": "By John Smith posted July 20, 2016"
         },
         {
@@ -1254,7 +1254,7 @@
               "size": 0
             }
           },
-          "title": "Face &amp; Body Waxing",
+          "title": "Waxing&nbsp;",
           "text": "Smooth away unwanted facial or body hair that are either a nuisance and or embarrassment. Eye brows, chin, lips and under arms.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">$65</a>",
           "_tags": [
@@ -1285,82 +1285,6 @@
             }
           },
           "_anchor": "msg-box5-3v"
-        },
-        {
-          "_params": {
-            "showTitle": false,
-            "showText": false,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": "22",
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/laser-lipo-1242x1068.png",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Signature Facial",
-          "text": "A customized facial that involves a skin consultation accompanied with a deep cleansing, steam, exfoliants, extractions, masque, hand massage. Along with moisturizer, spf and eye serum.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">$75</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_styles": {
-            "H3": {
-              "font-size": "25px",
-              "color": "#ffffff",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "text-align": "center"
-            },
-            "P": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "color": "#ffffff",
-              "text-align": "center",
-              "font-size": "19px"
-            },
-            "SPAN": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            },
-            ".btn": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            }
-          },
-          "_anchor": "msg-box5-3w"
         },
         {
           "_name": "footer1",
@@ -1587,7 +1511,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/hot-stone-massage-2000x7297.jpg",
+                "image": "@PROJECT_PATH@/assets/images/hot-stone-massage-2000x7290.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -1667,7 +1591,8 @@
             },
             ".mbr-cards-col:nth-child(even) .card-title": {
               "text-align": "center",
-              "font-size": "30px"
+              "font-size": "30px",
+              "color": "#90a878"
             },
             ".mbr-cards-col:nth-child(even) .card-subtitle SPAN": {
               "font-size": "11px"
@@ -1741,7 +1666,7 @@
           "title1": "Facials<br><br>",
           "subtitle1": "<p><a href=\"services.facials.html\"><b>Signature</b></a><br><a href=\"services.facials.html\"><b>Express</b></a><a href=\"Home.html#features1-2\"></a><br><a href=\"services.facials.html\"><b>Peels</b></a><br></p>",
           "caption1": "",
-          "button1": "<a data-app-btn=\"true\" href=\"http://beforethemakeup.setmore.com \" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Book Now</a> ",
+          "button1": "<a data-app-btn=\"true\" href=\"http://beforethemakeup.setmore.com \" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Book Now</a> ",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/1497132576391-2000x1206-800x482.jpg",
@@ -1756,7 +1681,7 @@
           "title2": "Specialties<br><br>",
           "subtitle2": "<b><a href=\"services.specialty.html\">Microneedle</a></b><br><a href=\"services-specialty.html#features3-2x\"><b>MicroCurrent</b></a><br><b>&nbsp;</b><b><a href=\"services-specialty.html#features3-2x\">Dermaplane</a></b><br><font color=\"#f3c649\"><b><a href=\"services-specialty.html#features3-2x\">MicroDerm</a></b></font>",
           "caption2": "",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">Book Now</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">Book Now</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/1497129949949562149077-2000x1591-800x636.jpg",
@@ -1772,7 +1697,7 @@
           "title3": "Waxing<br><br>",
           "subtitle3": "<b><a href=\"Home.html#features1-2\">Eye Brows</a> </b><br><a href=\"services.waxing.html\"><b>Chin</b></a><br><a href=\"services.waxing.html\"><b>Full Face</b></a><br><a href=\"services.waxing.html\"><b>Lip</b></a><br>",
           "caption3": "",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Book Now</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">Book Now</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/butt-lift-600x400.jpg",
@@ -1787,7 +1712,7 @@
           "title4": "Body Sculpting<br>&nbsp;",
           "subtitle4": "<b><a href=\"services-specialty.html#features3-2x\">Laser </a>Lipo</b><br><b>Sculpting Butt Lift<br></b><br><br>",
           "caption4": "",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">Book Now</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">Book Now</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
@@ -2065,10 +1990,10 @@
               "googleLink": "null"
             },
             ".navbar-toggler": {
-              "color": "#f28281"
+              "color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#f28281",
+              "color": "#000000",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "font-family": "'Montserrat', sans-serif"
             },
@@ -2091,7 +2016,7 @@
               "background": "#efefef"
             },
             ".bg-color.transparent .link": {
-              "color": "#f28281",
+              "color": "#000000",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -2111,7 +2036,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#f28281"
+              "background-color": "#000000"
             }
           },
           "_name": "menu",
@@ -2193,10 +2118,10 @@
               "googleLink": "null"
             },
             ".navbar-toggler": {
-              "color": "#f28281"
+              "color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#f28281",
+              "color": "#000000",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "font-family": "'Montserrat', sans-serif"
             },
@@ -2219,7 +2144,7 @@
               "background": "#efefef"
             },
             ".bg-color.transparent .link": {
-              "color": "#f28281",
+              "color": "#000000",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -2239,7 +2164,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#f28281"
+              "background-color": "#000000"
             }
           },
           "_tags": [
@@ -2303,7 +2228,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/hot-stone-massage-2000x7297.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/hot-stone-massage-2000x7290.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -2389,7 +2314,7 @@
               "size": 0
             }
           },
-          "title": "Sculpting Butt-Lift",
+          "title": "Sculpting Butt Lift",
           "text": "Sculpting Butt lift (non-surgical) using a combination of non- surgical techniques our butt lift treatment involves changing the shape of the buttocks. We focus on toning, lifting and repositioning some of the malleable fat for a more appealing buttocks contour. We will assess your body shape to ensure that the best treatment program for your customized Butt lift is devised to effectively sculpt, contour, lift and smooth the buttocks ensuring maximum results.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">$170 / 1 hr</a>",
           "_tags": [
@@ -2465,7 +2390,7 @@
             }
           },
           "title": "Laser Lipo",
-          "text": "This external liposuction technique uses a cold laser (in the form small and big pads) outside the patient’s body to break up fat before it’s removed from the body. ",
+          "text": "Laser liposuction is a minimally invasive procedure used for facial and body contouring. It uses laser energy to literally melt away unwanted fat almost anywhere in the body. This external liposuction technique uses a cold laser (in the form small and big pads) outside the patient’s body to break up fat before it’s removed from the body.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">$237 / 3-30 min sessions<br></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">$474 / 6-30 min sessions<br></a>",
           "_tags": [
             "Theme"
@@ -2580,10 +2505,10 @@
               "googleLink": "null"
             },
             ".navbar-toggler": {
-              "color": "#f28281"
+              "color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#f28281",
+              "color": "#000000",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "font-family": "'Montserrat', sans-serif"
             },
@@ -2606,7 +2531,7 @@
               "background": "#efefef"
             },
             ".bg-color.transparent .link": {
-              "color": "#f28281",
+              "color": "#000000",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -2626,7 +2551,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#f28281"
+              "background-color": "#000000"
             }
           },
           "_tags": [
@@ -3070,10 +2995,10 @@
               "googleLink": "null"
             },
             ".navbar-toggler": {
-              "color": "#f28281"
+              "color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#f28281",
+              "color": "#000000",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "font-family": "'Montserrat', sans-serif"
             },
@@ -3096,7 +3021,7 @@
               "background": "#efefef"
             },
             ".bg-color.transparent .link": {
-              "color": "#f28281",
+              "color": "#000000",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -3116,7 +3041,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#f28281"
+              "background-color": "#000000"
             }
           },
           "_tags": [
