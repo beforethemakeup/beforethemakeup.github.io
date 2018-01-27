@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "contact-us.html",
+    "currentPage": "index.html",
     "name": "beforethemakeup1.1-clone",
     "theme": {
       "name": "mobirise3",
@@ -1511,7 +1511,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/hot-stone-massage-2000x7290.jpg",
+                "image": "@PROJECT_PATH@/assets/images/hot-stone-massage-2000x7291.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -2228,7 +2228,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/hot-stone-massage-2000x7290.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/hot-stone-massage-2000x7291.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
