@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "bodyscupting.html",
+    "currentPage": "enhancements.html",
     "name": "beforethemakeup1.1-clone",
     "theme": {
       "name": "mobirise3",
@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 254,
+    "uniqCompNum": 255,
     "versionPublish": "4.5.4",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -791,7 +791,7 @@
     },
     "enhancements.html": {
       "settings": {
-        "title": "Enhancements",
+        "title": "Beauty Enhancements",
         "meta_descr": "Before the Makeup -Enhancement Services\n\n<script>\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\n\n  ga('create', 'UA-101618904-1', 'auto');\n  ga('send', 'pageview');\n\n</script>\n\n",
         "order": 5
       },
@@ -992,7 +992,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "inverse": true,
+            "inverse": false,
             "imageSize": "29",
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -1085,10 +1085,10 @@
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "inverse": false,
+            "inverse": true,
             "imageSize": "27",
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -1125,7 +1125,7 @@
           },
           "title": "Lashes",
           "text": "Strips&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">$12 / 15 mins</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://beforethemakeup.github.io/enhancements\" data-toolbar=\"-mbrBtnMove\">$12 / 15 mins</a>",
           "_tags": [
             "Theme"
           ],
@@ -1142,7 +1142,7 @@
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
               "color": "#000000",
-              "text-align": "center",
+              "text-align": "left",
               "font-size": "19px"
             },
             "SPAN": {
@@ -1158,13 +1158,13 @@
         },
         {
           "_params": {
-            "showTitle": true,
-            "showText": false,
+            "showTitle": false,
+            "showText": true,
             "showButtons": true,
             "inverse": true,
-            "imageSize": "22",
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "imageSize": "27",
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -1182,11 +1182,10 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/14971339503321281759267-2000x1646-800x658.jpg",
-              "link": "enhancements.html#msg-box2-2p",
+              "src": "@PROJECT_PATH@/assets/images/14971339503321281759267-2000x1646.jpg",
+              "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -1201,7 +1200,7 @@
             }
           },
           "title": "Lashes",
-          "text": "",
+          "text": "Tabs&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">$35 / 45 mins</a>",
           "_tags": [
             "Theme"
@@ -1211,15 +1210,16 @@
             "H3": {
               "font-size": "25px",
               "color": "#f28281",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
               "text-align": "center"
             },
             "P": {
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
               "color": "#000000",
-              "text-align": "center"
+              "text-align": "left",
+              "font-size": "19px"
             },
             "SPAN": {
               "font-family": "'Oxygen', sans-serif",
@@ -1230,7 +1230,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             }
           },
-          "_anchor": "msg-box5-6o"
+          "_anchor": "msg-box5-72"
         },
         {
           "_styles": {
@@ -2020,7 +2020,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/hot-stone-massage-2000x7296.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/hot-stone-massage-2000x7298.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -2761,7 +2761,7 @@
             "showButtons": true,
             "inverse": false,
             "imageSize": "30",
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
