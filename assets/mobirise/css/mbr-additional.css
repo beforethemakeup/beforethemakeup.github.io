@@ -858,6 +858,22 @@ h6,
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #menu-z .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -941,21 +957,89 @@ h6,
   text-align: right;
   font-family: 'Oswald', sans-serif;
 }
-#msg-box5-3v H3 {
+#msg-box5-6p H3 {
   font-size: 25px;
   color: #f28281;
   font-family: 'Oxygen', sans-serif;
-  text-align: center;
+  text-align: right;
 }
-#msg-box5-3v P {
+#msg-box5-6p P {
   font-family: 'Open Sans', sans-serif;
   color: #000000;
   text-align: center;
 }
-#msg-box5-3v SPAN {
+#msg-box5-6p SPAN {
   font-family: 'Oxygen', sans-serif;
 }
-#msg-box5-3v .btn {
+#msg-box5-6p .btn {
+  font-family: 'Open Sans', sans-serif;
+}
+#msg-box5-6r H3 {
+  font-size: 25px;
+  color: #f28281;
+  font-family: 'Oxygen', sans-serif;
+  text-align: left;
+}
+#msg-box5-6r P {
+  font-family: 'Open Sans', sans-serif;
+  color: #000000;
+  text-align: center;
+}
+#msg-box5-6r SPAN {
+  font-family: 'Oxygen', sans-serif;
+}
+#msg-box5-6r .btn {
+  font-family: 'Open Sans', sans-serif;
+}
+#msg-box5-6s H3 {
+  font-size: 25px;
+  color: #f28281;
+  font-family: 'Oxygen', sans-serif;
+  text-align: right;
+}
+#msg-box5-6s P {
+  font-family: 'Open Sans', sans-serif;
+  color: #000000;
+  text-align: center;
+}
+#msg-box5-6s SPAN {
+  font-family: 'Oxygen', sans-serif;
+}
+#msg-box5-6s .btn {
+  font-family: 'Open Sans', sans-serif;
+}
+#msg-box5-6u H3 {
+  font-size: 25px;
+  color: #f28281;
+  font-family: 'Oxygen', sans-serif;
+  text-align: left;
+}
+#msg-box5-6u P {
+  font-family: 'Open Sans', sans-serif;
+  color: #000000;
+  text-align: center;
+}
+#msg-box5-6u SPAN {
+  font-family: 'Oxygen', sans-serif;
+}
+#msg-box5-6u .btn {
+  font-family: 'Open Sans', sans-serif;
+}
+#msg-box5-6t H3 {
+  font-size: 25px;
+  color: #f28281;
+  font-family: 'Oxygen', sans-serif;
+  text-align: right;
+}
+#msg-box5-6t P {
+  font-family: 'Open Sans', sans-serif;
+  color: #000000;
+  text-align: center;
+}
+#msg-box5-6t SPAN {
+  font-family: 'Oxygen', sans-serif;
+}
+#msg-box5-6t .btn {
   font-family: 'Open Sans', sans-serif;
 }
 #msg-box2-2u .mbr-section-title {
