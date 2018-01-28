@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "specialty.html",
+    "currentPage": "index.html",
     "name": "beforethemakeup1.1-clone",
     "theme": {
       "name": "mobirise3",
@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 257,
+    "uniqCompNum": 260,
     "versionPublish": "4.5.4",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -150,7 +150,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Before The <br>Make-up</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://beforethemakeup.github.io/index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"services-facials.html#msg-box8-s\" aria-expanded=\"true\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"facials.html#header3-v\" aria-expanded=\"false\">Facials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://beforethemakeup.github.io/specialty\" aria-expanded=\"false\">Specialty </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://beforethemakeup.github.io/bodysculpting\" aria-expanded=\"false\">Body Sculpting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"enhancements.html#msg-box5-26\">Enhancements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://beforethemakeup.github.io/waxing.html\" aria-expanded=\"false\">Facial &amp; Body Waxing</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html#form1-2j\" aria-expanded=\"false\">Contact Us<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\"><span class=\"mbri-smile-face mbr-iconfont mbr-iconfont-btn\"></span>DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://beforethemakeup.github.io/index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"services-facials.html#msg-box8-s\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"facials.html#header3-v\" aria-expanded=\"false\">Facials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://beforethemakeup.github.io/specialty\" aria-expanded=\"false\">Specialty </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://beforethemakeup.github.io/bodysculpting\" aria-expanded=\"false\">Body Sculpting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"enhancements.html#msg-box5-26\">Enhancements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://beforethemakeup.github.io/waxing.html\" aria-expanded=\"false\">Facial &amp; Body Waxing</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html#form1-2j\" aria-expanded=\"false\">Contact Us<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\"><span class=\"mbri-smile-face mbr-iconfont mbr-iconfont-btn\"></span>DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -179,12 +179,12 @@
             "fullScreen": true,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "showBullets": false,
+            "showBullets": true,
             "bgColor": "#fff",
             "timeout": "4",
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/effl-touch-2000x133810.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -215,14 +215,14 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Book An Appointment</a> "
               },
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/microcurrent-pic-2000x1739.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
                 "overlayColor": "#000000",
                 "contentAlign": "right",
-                "showTitle": true,
+                "showTitle": false,
                 "title": "<font face=\"Open Sans, sans-serif\"><i>Innovative... &nbsp;&nbsp;</i></font>",
                 "showText": false,
                 "text": "",
@@ -264,6 +264,58 @@
           },
           "_anchor": "slider-h",
           "articleLayout": false
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#ffffff",
+              "text-align": "right",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgColor": "#000000"
+          },
+          "title": "",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-77"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#ffffff",
+              "text-align": "right",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#000000"
+          },
+          "title": "",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-75"
         },
         {
           "_styles": {
@@ -350,7 +402,7 @@
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
-            "showButtons": true,
+            "showButtons": false,
             "columnsColor": "#90a878",
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -380,7 +432,7 @@
             }
           },
           "title1": "Facials<br><br>",
-          "subtitle1": "<p><a href=\"services.facials.html\"><b>Signature</b></a><br><a href=\"services.facials.html\"><b>Express</b></a><a href=\"Home.html#features1-2\"></a><br><a href=\"services.facials.html\"><b>Peels</b></a><br></p>",
+          "subtitle1": "<p><a href=\"facials.html#msg-box5-3r\"><b>Signature</b></a><br><b><a href=\"facials.html#msg-box5-3p\">Express</a></b><a href=\"Home.html#features1-2\"></a><br><a href=\"facials.html#msg-box5-3s\"><b>Peels</b></a><br></p>",
           "caption1": "",
           "button1": "<a data-app-btn=\"true\" href=\"http://beforethemakeup.setmore.com \" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Book Now</a> ",
           "media2": {
@@ -395,7 +447,7 @@
             }
           },
           "title2": "Specialties<br><br>",
-          "subtitle2": "<b><a href=\"services.specialty.html\">Microneedle</a></b><br><a href=\"services-specialty.html#features3-2x\"><b>MicroCurrent</b></a><br><b>&nbsp;</b><b><a href=\"services-specialty.html#features3-2x\">Dermaplane</a></b><br><font color=\"#f3c649\"><b><a href=\"services-specialty.html#features3-2x\">MicroDerm</a></b></font>",
+          "subtitle2": "<b><a href=\"specialty.html#msg-box5-3h\">Microneedle</a></b><br><a href=\"specialty.html#msg-box5-3k\"><b>MicroCurrent</b></a><br><b>&nbsp;</b><b><a href=\"specialty.html#msg-box5-3j\">Dermaplane</a></b><br><font color=\"#f3c649\"><b><a href=\"specialty.html#msg-box5-76\">MicroDerm</a></b></font>",
           "caption2": "",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">Book Now</a>",
           "media3": {
@@ -411,7 +463,7 @@
             }
           },
           "title3": "Waxing<br><br>",
-          "subtitle3": "<b><a href=\"Home.html#features1-2\">Eye Brows</a> </b><br><a href=\"services.waxing.html\"><b>Chin</b></a><br><a href=\"services.waxing.html\"><b>Full Face</b></a><br><a href=\"services.waxing.html\"><b>Lip</b></a><br>",
+          "subtitle3": "<b><a href=\"waxing.html#msg-box5-6t\">Eye Brows</a> </b><br><b><a href=\"waxing.html#msg-box5-6r\">Chin</a></b><br><b><a href=\"waxing.html#msg-box5-6s\">Arms</a></b><br><a href=\"waxing.html#msg-box5-6u\"><b>Full Face</b></a><br><a href=\"waxing.html#msg-box5-6t\"><b>Lip</b></a><br>",
           "caption3": "",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">Book Now</a>",
           "media4": {
@@ -426,7 +478,7 @@
             }
           },
           "title4": "Body Sculpting<br>&nbsp;",
-          "subtitle4": "<b><a href=\"services-specialty.html#features3-2x\">Laser </a>Lipo</b><br><b>Sculpting Butt Lift<br></b><br><br>",
+          "subtitle4": "<b><a href=\"bodysculpting.html#msg-box5-6y\">Laser Lipo</a></b><br><b><a href=\"bodysculpting.html#msg-box5-6z\">Sculpting Butt Lift</a><br></b><br><br>",
           "caption4": "",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">Book Now</a>",
           "media5": {
@@ -480,8 +532,8 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": false,
-            "inverse": true,
+            "showButtons": true,
+            "inverse": false,
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -794,7 +846,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Before The <br>Make-up</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://beforethemakeup.github.io/index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"services-facials.html#msg-box8-s\" aria-expanded=\"true\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"facials.html#header3-v\" aria-expanded=\"false\">Facials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://beforethemakeup.github.io/specialty\" aria-expanded=\"false\">Specialty </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://beforethemakeup.github.io/bodysculpting\" aria-expanded=\"false\">Body Sculpting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"enhancements.html#msg-box5-26\">Enhancements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://beforethemakeup.github.io/waxing.html\" aria-expanded=\"false\">Facial &amp; Body Waxing</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html#form1-2j\" aria-expanded=\"false\">Contact Us<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\"><span class=\"mbri-smile-face mbr-iconfont mbr-iconfont-btn\"></span>DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://beforethemakeup.github.io/index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"services-facials.html#msg-box8-s\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"facials.html#header3-v\" aria-expanded=\"false\">Facials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://beforethemakeup.github.io/specialty\" aria-expanded=\"false\">Specialty </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://beforethemakeup.github.io/bodysculpting\" aria-expanded=\"false\">Body Sculpting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"enhancements.html#msg-box5-26\">Enhancements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://beforethemakeup.github.io/waxing.html\" aria-expanded=\"false\">Facial &amp; Body Waxing</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html#form1-2j\" aria-expanded=\"false\">Contact Us<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\"><span class=\"mbri-smile-face mbr-iconfont mbr-iconfont-btn\"></span>DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -925,7 +977,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Before The <br>Make-up</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://beforethemakeup.github.io/index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"services-facials.html#msg-box8-s\" aria-expanded=\"true\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"facials.html#header3-v\" aria-expanded=\"false\">Facials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://beforethemakeup.github.io/specialty\" aria-expanded=\"false\">Specialty </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://beforethemakeup.github.io/bodysculpting\" aria-expanded=\"false\">Body Sculpting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"enhancements.html#msg-box5-26\">Enhancements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://beforethemakeup.github.io/waxing.html\" aria-expanded=\"false\">Facial &amp; Body Waxing</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html#form1-2j\" aria-expanded=\"false\">Contact Us<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\"><span class=\"mbri-smile-face mbr-iconfont mbr-iconfont-btn\"></span>DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://beforethemakeup.github.io/index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"services-facials.html#msg-box8-s\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"facials.html#header3-v\" aria-expanded=\"false\">Facials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://beforethemakeup.github.io/specialty\" aria-expanded=\"false\">Specialty </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://beforethemakeup.github.io/bodysculpting\" aria-expanded=\"false\">Body Sculpting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"enhancements.html#msg-box5-26\">Enhancements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://beforethemakeup.github.io/waxing.html\" aria-expanded=\"false\">Facial &amp; Body Waxing</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html#form1-2j\" aria-expanded=\"false\">Contact Us<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\"><span class=\"mbri-smile-face mbr-iconfont mbr-iconfont-btn\"></span>DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -1415,7 +1467,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Before The <br>Make-up</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://beforethemakeup.github.io/index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"services-facials.html#msg-box8-s\" aria-expanded=\"true\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"facials.html#header3-v\" aria-expanded=\"false\">Facials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://beforethemakeup.github.io/specialty\" aria-expanded=\"false\">Specialty </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://beforethemakeup.github.io/bodysculpting\" aria-expanded=\"false\">Body Sculpting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"enhancements.html#msg-box5-26\">Enhancements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://beforethemakeup.github.io/waxing.html\" aria-expanded=\"false\">Facial &amp; Body Waxing</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html#form1-2j\" aria-expanded=\"false\">Contact Us<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\"><span class=\"mbri-smile-face mbr-iconfont mbr-iconfont-btn\"></span>DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://beforethemakeup.github.io/index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"services-facials.html#msg-box8-s\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"facials.html#header3-v\" aria-expanded=\"false\">Facials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://beforethemakeup.github.io/specialty\" aria-expanded=\"false\">Specialty </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://beforethemakeup.github.io/bodysculpting\" aria-expanded=\"false\">Body Sculpting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"enhancements.html#msg-box5-26\">Enhancements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://beforethemakeup.github.io/waxing.html\" aria-expanded=\"false\">Facial &amp; Body Waxing</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html#form1-2j\" aria-expanded=\"false\">Contact Us<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\"><span class=\"mbri-smile-face mbr-iconfont mbr-iconfont-btn\"></span>DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -2026,7 +2078,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Before The <br>Make-up</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://beforethemakeup.github.io/index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"services-facials.html#msg-box8-s\" aria-expanded=\"true\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"facials.html#header3-v\" aria-expanded=\"false\">Facials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://beforethemakeup.github.io/specialty\" aria-expanded=\"false\">Specialty </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://beforethemakeup.github.io/bodysculpting\" aria-expanded=\"false\">Body Sculpting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"enhancements.html#msg-box5-26\">Enhancements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://beforethemakeup.github.io/waxing.html\" aria-expanded=\"false\">Facial &amp; Body Waxing</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html#form1-2j\" aria-expanded=\"false\">Contact Us<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\"><span class=\"mbri-smile-face mbr-iconfont mbr-iconfont-btn\"></span>DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://beforethemakeup.github.io/index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"services-facials.html#msg-box8-s\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"facials.html#header3-v\" aria-expanded=\"false\">Facials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://beforethemakeup.github.io/specialty\" aria-expanded=\"false\">Specialty </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://beforethemakeup.github.io/bodysculpting\" aria-expanded=\"false\">Body Sculpting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"enhancements.html#msg-box5-26\">Enhancements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://beforethemakeup.github.io/waxing.html\" aria-expanded=\"false\">Facial &amp; Body Waxing</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html#form1-2j\" aria-expanded=\"false\">Contact Us<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\"><span class=\"mbri-smile-face mbr-iconfont mbr-iconfont-btn\"></span>DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -2046,7 +2098,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/hot-stone-massage-2000x72911.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/hot-stone-massage-2000x72912.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -2115,7 +2167,7 @@
             "showText": true,
             "showButtons": true,
             "inverse": false,
-            "imageSize": "30",
+            "imageSize": "40",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -2191,8 +2243,84 @@
             "showText": true,
             "showButtons": true,
             "inverse": true,
-            "imageSize": "30",
+            "imageSize": "40",
             "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/1497132576391-2000x1206-800x482.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "MICROCURRENT",
+          "text": "Also known as the vampire facial, is the latest technique in improving the appearance of fine lines, wrinkles, scars (acne, surgical, burn), stretch marks, pore size, skin tone and texture. When moved across the skin’s surface it stimulates natural collagen reproduction, while creating channels in the skin. These channels allow nutrients to enter deep into the c ells found in the dermis. This increased absorption (up to 80%) of active ingredients create stimulated repair and faster resurfacing results<i>.</i>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">$90</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "text-align": "center",
+              "font-size": "25px",
+              "color": "#06a6b3",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            "P": {
+              "text-align": "center",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "color": "#000000"
+            },
+            "I": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "14px"
+            },
+            ".btn": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_anchor": "msg-box5-3k"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "40",
+            "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -2265,9 +2393,9 @@
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "inverse": false,
-            "imageSize": "30",
-            "paddingTop": "0",
+            "inverse": true,
+            "imageSize": "40",
+            "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -2286,7 +2414,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/1497132576391-2000x1206-800x482.jpg",
+              "src": "@PROJECT_PATH@/assets/images/14971321578861322759887-2000x1333.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -2303,38 +2431,37 @@
               "size": 0
             }
           },
-          "title": "MICROCURRENT",
-          "text": "Also known as the vampire facial, is the latest technique in improving the appearance of fine lines, wrinkles, scars (acne, surgical, burn), stretch marks, pore size, skin tone and texture. When moved across the skin’s surface it stimulates natural collagen reproduction, while creating channels in the skin. These channels allow nutrients to enter deep into the c ells found in the dermis. This increased absorption (up to 80%) of active ingredients create stimulated repair and faster resurfacing results<i>.</i>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">$90</a>",
+          "title": "Microdermabrasion",
+          "text": "Mechanical exfoliation that removes the uppermost layer of dead skin cells from the face, leaving skin smooth and radiant!",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">$85/ 1 hr</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "text-align": "center",
               "font-size": "25px",
               "color": "#06a6b3",
               "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "text-align": "center"
             },
             "P": {
-              "text-align": "center",
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "color": "#000000"
+              "color": "#000000",
+              "text-align": "center"
             },
-            "I": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "14px"
+            "SPAN": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".btn": {
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             }
           },
-          "_anchor": "msg-box5-3k"
+          "_anchor": "msg-box5-76"
         },
         {
           "_styles": {
@@ -2493,7 +2620,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Before The <br>Make-up</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://beforethemakeup.github.io/index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"services-facials.html#msg-box8-s\" aria-expanded=\"true\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"facials.html#header3-v\" aria-expanded=\"false\">Facials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://beforethemakeup.github.io/specialty\" aria-expanded=\"false\">Specialty </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://beforethemakeup.github.io/bodysculpting\" aria-expanded=\"false\">Body Sculpting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"enhancements.html#msg-box5-26\">Enhancements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://beforethemakeup.github.io/waxing.html\" aria-expanded=\"false\">Facial &amp; Body Waxing</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html#form1-2j\" aria-expanded=\"false\">Contact Us<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\"><span class=\"mbri-smile-face mbr-iconfont mbr-iconfont-btn\"></span>DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://beforethemakeup.github.io/index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"services-facials.html#msg-box8-s\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"facials.html#header3-v\" aria-expanded=\"false\">Facials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://beforethemakeup.github.io/specialty\" aria-expanded=\"false\">Specialty </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://beforethemakeup.github.io/bodysculpting\" aria-expanded=\"false\">Body Sculpting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"enhancements.html#msg-box5-26\">Enhancements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://beforethemakeup.github.io/waxing.html\" aria-expanded=\"false\">Facial &amp; Body Waxing</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html#form1-2j\" aria-expanded=\"false\">Contact Us<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\"><span class=\"mbri-smile-face mbr-iconfont mbr-iconfont-btn\"></span>DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -2548,8 +2675,8 @@
           "_anchor": "header3-v",
           "_params": {
             "showMeta": false,
-            "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgColor": "#90a878"
           },
           "title": "FACIALS",
@@ -2560,83 +2687,8 @@
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "inverse": true,
-            "imageSize": "30",
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/effleurage-blk-1-1400x1400.jpg",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Express Facial",
-          "text": "Deep cleansing facial for the person that is on the go.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">$50 / 30 mins</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_styles": {
-            "H3": {
-              "font-size": "25px",
-              "color": "#f28281",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "text-align": "center"
-            },
-            "P": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "color": "#000000",
-              "text-align": "center"
-            },
-            "SPAN": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            },
-            ".btn": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            }
-          },
-          "_anchor": "msg-box5-3p"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
             "inverse": false,
-            "imageSize": "30",
+            "imageSize": "42",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -2711,7 +2763,82 @@
             "showText": true,
             "showButtons": true,
             "inverse": true,
-            "imageSize": "30",
+            "imageSize": "42",
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/effleurage-blk-1-1400x1400.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Express Facial",
+          "text": "Deep cleansing facial for the person that is on the go.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">$50 / 30 mins</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "25px",
+              "color": "#f28281",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "text-align": "center"
+            },
+            "P": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "color": "#000000",
+              "text-align": "center"
+            },
+            "SPAN": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".btn": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_anchor": "msg-box5-3p"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "40",
             "paddingTop": "0",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -2779,81 +2906,6 @@
             }
           },
           "_anchor": "msg-box5-3s"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "imageSize": "30",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/14971321578861322759887-2000x1333.jpg",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Microdermabrasion",
-          "text": "Mechanical exfoliation that removes the uppermost layer of dead skin cells from the face, leaving skin smooth and radiant!",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">$85 / 1 hr</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_styles": {
-            "H3": {
-              "font-size": "25px",
-              "color": "#f28281",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "text-align": "center"
-            },
-            "P": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "color": "#000000",
-              "text-align": "center"
-            },
-            "SPAN": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            },
-            ".btn": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            }
-          },
-          "_anchor": "msg-box5-3t"
         },
         {
           "_name": "footer1",
@@ -3028,7 +3080,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Before The <br>Make-up</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://beforethemakeup.github.io/index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"services-facials.html#msg-box8-s\" aria-expanded=\"true\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"facials.html#header3-v\" aria-expanded=\"false\">Facials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://beforethemakeup.github.io/specialty\" aria-expanded=\"false\">Specialty </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://beforethemakeup.github.io/bodysculpting\" aria-expanded=\"false\">Body Sculpting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"enhancements.html#msg-box5-26\">Enhancements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://beforethemakeup.github.io/waxing.html\" aria-expanded=\"false\">Facial &amp; Body Waxing</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html#form1-2j\" aria-expanded=\"false\">Contact Us<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\"><span class=\"mbri-smile-face mbr-iconfont mbr-iconfont-btn\"></span>DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://beforethemakeup.github.io/index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"services-facials.html#msg-box8-s\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"facials.html#header3-v\" aria-expanded=\"false\">Facials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://beforethemakeup.github.io/specialty\" aria-expanded=\"false\">Specialty </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://beforethemakeup.github.io/bodysculpting\" aria-expanded=\"false\">Body Sculpting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"enhancements.html#msg-box5-26\">Enhancements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://beforethemakeup.github.io/waxing.html\" aria-expanded=\"false\">Facial &amp; Body Waxing</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html#form1-2j\" aria-expanded=\"false\">Contact Us<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\"><span class=\"mbri-smile-face mbr-iconfont mbr-iconfont-btn\"></span>DOWNLOAD</a></li>",
           "_anchor": "menu-6v"
         },
         {
