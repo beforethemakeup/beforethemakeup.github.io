@@ -22,6 +22,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -516,6 +517,15 @@ h6,
   font-family: 'Lora', serif;
   text-align: right;
   font-size: 48px;
+}
+#header3-73 .mbr-section-title,
+#header3-73 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-73 H3 {
+  color: #ffffff;
+  text-align: right;
+  font-family: 'Oswald', sans-serif;
 }
 #features1-2 .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #90a878;
