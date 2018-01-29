@@ -23,6 +23,8 @@
 
 
 
+
+
 body,
 input,
 textarea,
@@ -518,6 +520,24 @@ h6,
   text-align: right;
   font-size: 48px;
 }
+#header3-77 .mbr-section-title,
+#header3-77 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-77 H3 {
+  color: #ffffff;
+  text-align: right;
+  font-family: 'Oswald', sans-serif;
+}
+#header3-75 .mbr-section-title,
+#header3-75 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-75 H3 {
+  color: #ffffff;
+  text-align: right;
+  font-family: 'Oswald', sans-serif;
+}
 #header3-73 .mbr-section-title,
 #header3-73 .mbr-section-subtitle {
   text-align: center;
@@ -589,6 +609,17 @@ h6,
 #header3-2o .mbr-section-subtitle {
   text-align: center;
 }
+#form1-2j .form-control-label {
+  color: #232323;
+}
+#form1-2j SMALL {
+  font-size: 46px;
+  color: #000000;
+  font-family: 'Ubuntu', sans-serif;
+}
+#form1-2j .btn {
+  font-family: 'MANIFESTO';
+}
 #msg-box2-2i .mbr-section-title {
   color: #fff;
   font-size: 36px;
@@ -602,16 +633,11 @@ h6,
 #msg-box2-2i .btn {
   font-size: 14px;
 }
-#form1-2j .form-control-label {
-  color: #232323;
+#form2-78 .mbr-section-title {
+  color: #fff;
 }
-#form1-2j SMALL {
-  font-size: 46px;
-  color: #000000;
-  font-family: 'Ubuntu', sans-serif;
-}
-#form1-2j .btn {
-  font-family: 'Archivo Black', sans-serif;
+#form2-78 .mbr-section-subtitle {
+  color: #a0a0a0;
 }
 #header3-2k .mbr-section-title,
 #header3-2k .mbr-section-subtitle {
@@ -687,6 +713,10 @@ h6,
 #menu-k .close-icon::after {
   background-color: #000000;
 }
+
+
+
+
 
 
 
@@ -861,6 +891,23 @@ h6,
 }
 #msg-box2-2p .btn {
   font-size: 14px;
+}
+#msg-box5-79 H3 {
+  font-size: 25px;
+  color: #f28281;
+  font-family: 'Oxygen', sans-serif;
+  text-align: center;
+}
+#msg-box5-79 P {
+  font-family: 'Open Sans', sans-serif;
+  color: #000000;
+  text-align: center;
+}
+#msg-box5-79 SPAN {
+  font-family: 'Oxygen', sans-serif;
+}
+#msg-box5-79 .btn {
+  font-family: 'Open Sans', sans-serif;
 }
 
 
@@ -1082,6 +1129,10 @@ h6,
 
 
 
+
+
+
+
 #menu-1h .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1186,23 +1237,6 @@ h6,
 #msg-box5-3h .btn {
   font-family: 'Open Sans', sans-serif;
 }
-#msg-box5-3j H3 {
-  font-size: 25px;
-  color: #06a6b3;
-  font-family: 'Oxygen', sans-serif;
-  text-align: center;
-}
-#msg-box5-3j P {
-  font-family: 'Open Sans', sans-serif;
-  color: #000000;
-  text-align: center;
-}
-#msg-box5-3j SPAN {
-  font-family: 'Oxygen', sans-serif;
-}
-#msg-box5-3j .btn {
-  font-family: 'Open Sans', sans-serif;
-}
 #msg-box5-3k H3 {
   text-align: center;
   font-size: 25px;
@@ -1221,23 +1255,53 @@ h6,
 #msg-box5-3k .btn {
   font-family: 'Open Sans', sans-serif;
 }
+#msg-box5-3j H3 {
+  font-size: 25px;
+  color: #06a6b3;
+  font-family: 'Oxygen', sans-serif;
+  text-align: center;
+}
+#msg-box5-3j P {
+  font-family: 'Open Sans', sans-serif;
+  color: #000000;
+  text-align: center;
+}
+#msg-box5-3j SPAN {
+  font-family: 'Oxygen', sans-serif;
+}
+#msg-box5-3j .btn {
+  font-family: 'Open Sans', sans-serif;
+}
+#msg-box5-76 H3 {
+  font-size: 25px;
+  color: #06a6b3;
+  font-family: 'Oxygen', sans-serif;
+  text-align: center;
+}
+#msg-box5-76 P {
+  font-family: 'Open Sans', sans-serif;
+  color: #000000;
+  text-align: center;
+}
+#msg-box5-76 SPAN {
+  font-family: 'Oxygen', sans-serif;
+}
+#msg-box5-76 .btn {
+  font-family: 'Open Sans', sans-serif;
+}
 #msg-box2-2s .mbr-section-title {
   color: #fff;
   font-size: 36px;
   text-align: center;
 }
 #msg-box2-2s .mbr-section-subtitle {
-  color: #06a6b3;
+  color: #c1c1c1;
   text-align: center;
   font-size: 25px;
 }
 #msg-box2-2s .btn {
   font-size: 14px;
 }
-
-
-
-
 
 
 
@@ -1336,23 +1400,6 @@ h6,
   text-align: right;
   font-family: 'Oswald', sans-serif;
 }
-#msg-box5-3p H3 {
-  font-size: 25px;
-  color: #f28281;
-  font-family: 'Oxygen', sans-serif;
-  text-align: center;
-}
-#msg-box5-3p P {
-  font-family: 'Open Sans', sans-serif;
-  color: #000000;
-  text-align: center;
-}
-#msg-box5-3p SPAN {
-  font-family: 'Oxygen', sans-serif;
-}
-#msg-box5-3p .btn {
-  font-family: 'Open Sans', sans-serif;
-}
 #msg-box5-3r H3 {
   font-size: 25px;
   color: #f28281;
@@ -1370,6 +1417,23 @@ h6,
 #msg-box5-3r .btn {
   font-family: 'Open Sans', sans-serif;
 }
+#msg-box5-3p H3 {
+  font-size: 25px;
+  color: #f28281;
+  font-family: 'Oxygen', sans-serif;
+  text-align: center;
+}
+#msg-box5-3p P {
+  font-family: 'Open Sans', sans-serif;
+  color: #000000;
+  text-align: center;
+}
+#msg-box5-3p SPAN {
+  font-family: 'Oxygen', sans-serif;
+}
+#msg-box5-3p .btn {
+  font-family: 'Open Sans', sans-serif;
+}
 #msg-box5-3s H3 {
   font-size: 25px;
   color: #f28281;
@@ -1385,23 +1449,6 @@ h6,
   font-family: 'Oxygen', sans-serif;
 }
 #msg-box5-3s .btn {
-  font-family: 'Open Sans', sans-serif;
-}
-#msg-box5-3t H3 {
-  font-size: 25px;
-  color: #f28281;
-  font-family: 'Oxygen', sans-serif;
-  text-align: center;
-}
-#msg-box5-3t P {
-  font-family: 'Open Sans', sans-serif;
-  color: #000000;
-  text-align: center;
-}
-#msg-box5-3t SPAN {
-  font-family: 'Oxygen', sans-serif;
-}
-#msg-box5-3t .btn {
   font-family: 'Open Sans', sans-serif;
 }
 #msg-box2-2r .mbr-section-title {
@@ -1511,23 +1558,6 @@ h6,
   text-align: right;
   font-family: 'Oswald', sans-serif;
 }
-#msg-box5-6y H3 {
-  font-size: 25px;
-  color: #ffffff;
-  font-family: 'Oxygen', sans-serif;
-  text-align: center;
-}
-#msg-box5-6y P {
-  font-family: 'Open Sans', sans-serif;
-  color: #ffffff;
-  text-align: center;
-}
-#msg-box5-6y SPAN {
-  font-family: 'Oxygen', sans-serif;
-}
-#msg-box5-6y .btn {
-  font-family: 'Open Sans', sans-serif;
-}
 #msg-box5-6z H3 {
   font-size: 25px;
   color: #ffffff;
@@ -1544,6 +1574,23 @@ h6,
   font-family: 'Oxygen', sans-serif;
 }
 #msg-box5-6z .btn {
+  font-family: 'Open Sans', sans-serif;
+}
+#msg-box5-6y H3 {
+  font-size: 25px;
+  color: #ffffff;
+  font-family: 'Oxygen', sans-serif;
+  text-align: center;
+}
+#msg-box5-6y P {
+  font-family: 'Open Sans', sans-serif;
+  color: #ffffff;
+  text-align: center;
+}
+#msg-box5-6y SPAN {
+  font-family: 'Oxygen', sans-serif;
+}
+#msg-box5-6y .btn {
   font-family: 'Open Sans', sans-serif;
 }
 #msg-box2-71 .mbr-section-title {
