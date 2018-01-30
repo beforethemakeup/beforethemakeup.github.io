@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "facials.html",
+    "currentPage": "contactus.html",
     "name": "beforethemakeup1.1-clone",
     "theme": {
       "name": "mobirise3",
@@ -12,9 +12,9 @@
         "infoColor": "#7e9b9f",
         "warningColor": "#f3c649",
         "dangerColor": "#f28281",
-        "titleFont": "MANIFESTO",
+        "titleFont": "Arizonia",
         "subtitleFont": "Archivo Black",
-        "textFont": "MANIFESTO",
+        "textFont": "Archivo Black",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": true,
@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 271,
+    "uniqCompNum": 278,
     "versionPublish": "4.5.4",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -58,35 +58,35 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-size": "36px",
-              "font-family": "'MANIFESTO'",
-              "googleLink": "null"
+              "font-size": "48px",
+              "font-family": "'Arizonia', handwriting",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arizonia:400"
             },
             ".navbar-toggler": {
               "color": "#000000"
             },
             ".link, .dropdown-item": {
               "color": "#000000",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-family": "'Montserrat', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Arizonia:400",
+              "font-family": "'Arizonia', handwriting"
             },
             ".link": {
-              "font-size": "1.55rem"
+              "font-size": "1.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.679rem"
+              "font-size": "1.949rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#d6d6d6"
+              "background": "#b3b3b3"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#e7e7e7!important"
+              "background": "#c4c4c4!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#efefef"
+              "background": "#cccccc"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -121,12 +121,12 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#efefef",
-            "fontSize": "1.55",
+            "bgColor": "#cccccc",
+            "fontSize": "1.8",
             "fontName": {
-              "name": "Montserrat",
-              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "css": "'Montserrat', sans-serif"
+              "name": "Arizonia",
+              "url": "https://fonts.googleapis.com/css?family=Arizonia:400",
+              "css": "'Arizonia', handwriting"
             },
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
@@ -149,7 +149,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Before The <br>Make-up</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Before The Makeup</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://beforethemakeup.github.io/index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"services-facials.html#msg-box8-s\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"facials.html#header3-v\" aria-expanded=\"false\">Facials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"specialty.html#header3-1j\" aria-expanded=\"false\">Specialty </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://beforethemakeup.github.io/bodysculpting\" aria-expanded=\"false\">Body Sculpting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"enhancements.html#msg-box5-26\">Enhancements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://beforethemakeup.github.io/waxing.html\" aria-expanded=\"false\">Facial &amp; Body Waxing</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html#form1-7c\" aria-expanded=\"false\">Contact Us<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\"><span class=\"mbri-smile-face mbr-iconfont mbr-iconfont-btn\"></span>DOWNLOAD</a></li>"
         },
         {
@@ -359,19 +359,24 @@
             },
             ".mbr-cards-col:nth-child(even) .card-title": {
               "text-align": "center",
-              "font-size": "30px",
-              "color": "#90a878"
+              "font-size": "46px",
+              "color": "#90a878",
+              "font-family": "'Arizonia', handwriting",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arizonia:400"
             },
             ".mbr-cards-col:nth-child(even) .card-subtitle SPAN": {
               "font-size": "11px"
             },
             ".mbr-cards-col:nth-child(odd) .card-subtitle": {
-              "color": "#efefef"
+              "color": "#efefef",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "16px"
             },
             ".mbr-cards-col:nth-child(odd) .card-title": {
-              "font-family": "'MANIFESTO'",
-              "googleLink": "null",
-              "font-size": "30px"
+              "font-family": "'Arizonia', handwriting",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arizonia:400",
+              "font-size": "46px"
             },
             ".mbr-cards-col:nth-child(even) .card-subtitle B": {
               "color": "#f3c649",
@@ -382,8 +387,8 @@
             ".mbr-cards-col:nth-child(even) .card-subtitle": {
               "color": "#f3c649",
               "font-size": "16px",
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".mbr-cards-col:nth-child(odd) .card-subtitle B": {
               "font-size": "18px",
@@ -391,8 +396,8 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Archivo+Black:400"
             },
             ".mbr-cards-col:nth-child(odd) .card-subtitle P": {
-              "font-family": "'Archivo Black', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Archivo+Black:400",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "font-size": "18px"
             }
           },
@@ -507,33 +512,55 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
+          "_name": "footer1",
+          "_anchor": "footer1-2",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2017 Before the Makeup."
+        },
+        {
           "_styles": {
             ".mbr-section-title": {
               "color": "#fff",
-              "font-size": "36px",
+              "font-size": "60px",
               "text-align": "center",
-              "font-family": "'Source Sans Pro', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700"
+              "font-family": "'Arizonia', handwriting",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arizonia:400"
             },
             ".mbr-section-subtitle": {
-              "color": "#90a878",
+              "color": "#a0a0a0",
               "text-align": "center",
-              "font-size": "25px"
+              "font-size": "25px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             },
             ".btn": {
-              "font-size": "14px"
+              "font-size": "14px",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".mbr-section-subtitle I": {
+              "font-family": "'Qwigley', handwriting",
+              "googleLink": "https://fonts.googleapis.com/css?family=Qwigley:400",
+              "font-size": "46px",
+              "color": "#ed957f"
             }
           },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box2",
-          "_anchor": "msg-box2-2g",
           "_params": {
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "inverse": false,
+            "inverse": true,
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -549,26 +576,14 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://beforethemakeup.setmore.com \" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK NOW</a>",
           "title": "Schedule an Appointment",
-          "text": "\"Before the makeup, there is beauty.\"<div><br></div>"
-        },
-        {
-          "_name": "footer1",
-          "_anchor": "footer1-2",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#323232",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Copyright (c) 2017 Before the Makeup."
+          "text": "<i>\"Before the makeup, there is beauty\"</i>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://beforethemakeup.setmore.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK NOW</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-7p"
         }
       ]
     },
@@ -586,35 +601,35 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-size": "36px",
-              "font-family": "'MANIFESTO'",
-              "googleLink": "null"
+              "font-size": "48px",
+              "font-family": "'Arizonia', handwriting",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arizonia:400"
             },
             ".navbar-toggler": {
               "color": "#000000"
             },
             ".link, .dropdown-item": {
               "color": "#000000",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-family": "'Montserrat', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Arizonia:400",
+              "font-family": "'Arizonia', handwriting"
             },
             ".link": {
-              "font-size": "1.55rem"
+              "font-size": "1.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.679rem"
+              "font-size": "1.949rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#d6d6d6"
+              "background": "#b3b3b3"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#e7e7e7!important"
+              "background": "#c4c4c4!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#efefef"
+              "background": "#cccccc"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -652,12 +667,12 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#efefef",
-            "fontSize": "1.55",
+            "bgColor": "#cccccc",
+            "fontSize": "1.8",
             "fontName": {
-              "name": "Montserrat",
-              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "css": "'Montserrat', sans-serif"
+              "name": "Arizonia",
+              "url": "https://fonts.googleapis.com/css?family=Arizonia:400",
+              "css": "'Arizonia', handwriting"
             },
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
@@ -681,7 +696,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Before The <br>Make-up</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Before The Makeup</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://beforethemakeup.github.io/index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"services-facials.html#msg-box8-s\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"facials.html#header3-v\" aria-expanded=\"false\">Facials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"specialty.html#header3-1j\" aria-expanded=\"false\">Specialty </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://beforethemakeup.github.io/bodysculpting\" aria-expanded=\"false\">Body Sculpting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"enhancements.html#msg-box5-26\">Enhancements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://beforethemakeup.github.io/waxing.html\" aria-expanded=\"false\">Facial &amp; Body Waxing</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html#form1-7c\" aria-expanded=\"false\">Contact Us<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\"><span class=\"mbri-smile-face mbr-iconfont mbr-iconfont-btn\"></span>DOWNLOAD</a></li>"
         },
         {
@@ -728,6 +743,11 @@
               "text-align": "right",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".mbr-section-title": {
+              "font-size": "60px",
+              "font-family": "'Arizonia', handwriting",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arizonia:400"
             }
           },
           "_params": {
@@ -814,7 +834,7 @@
             }
           },
           "title": "Laser Teeth Whitening",
-          "text": "Achieve a great smile with one of our simple cosmetic procedures. Our zoom teeth whitening  system uses a whitening gel combined with an accelerator light to brighten your teeth by 2-5 shades.&nbsp;",
+          "text": "<i>Achieve a great smile with one of our simple cosmetic procedures. Our zoom teeth whitening  system uses a whitening gel combined with an accelerator light to brighten your teeth by 2-5 shades.&nbsp;</i>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"http://beforethemakeup.setmore.com\" data-toolbar=\"-mbrBtnMove\">$69 / 30 mins</a>",
           "_tags": [
             "Theme"
@@ -822,10 +842,10 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "font-size": "25px",
+              "font-size": "36px",
               "color": "#f28281",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Arizonia', handwriting",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arizonia:400",
               "text-align": "center"
             },
             "P": {
@@ -840,8 +860,12 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".btn": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "14px"
+            },
+            "I": {
+              "font-size": "17px"
             }
           },
           "_anchor": "msg-box5-3z"
@@ -850,13 +874,13 @@
           "_name": "footer1",
           "_anchor": "footer1-28",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#323232",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -907,7 +931,7 @@
             }
           },
           "title": "Lashes",
-          "text": "<b><i>Strips</i></b>&nbsp;",
+          "text": "<i>Strips&nbsp;</i>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"http://beforethemakeup.setmore.com\" data-toolbar=\"-mbrBtnMove\">$12 / 15 mins</a>",
           "_tags": [
             "Theme"
@@ -915,10 +939,10 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "font-size": "25px",
+              "font-size": "36px",
               "color": "#f28281",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Arizonia', handwriting",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arizonia:400",
               "text-align": "center"
             },
             "P": {
@@ -933,6 +957,14 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".btn": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "14px"
+            },
+            "I": {
+              "font-size": "17px"
+            },
+            "B": {
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             }
@@ -983,7 +1015,7 @@
             }
           },
           "title": "Lashes",
-          "text": "<b><i>Tabs&nbsp;</i></b>",
+          "text": "<i>Tabs&nbsp;</i>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"http://beforethemakeup.setmore.com\" data-toolbar=\"-mbrBtnMove\">$35 / 45 mins</a>",
           "_tags": [
             "Theme"
@@ -1009,8 +1041,12 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".btn": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "14px"
+            },
+            "I": {
+              "font-size": "17px"
             }
           },
           "_anchor": "msg-box5-72"
@@ -1019,23 +1055,30 @@
           "_styles": {
             ".mbr-section-title": {
               "color": "#fff",
-              "font-size": "36px",
-              "text-align": "center"
+              "font-size": "60px",
+              "text-align": "center",
+              "font-family": "'Arizonia', handwriting",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arizonia:400"
             },
             ".mbr-section-subtitle": {
               "color": "#a0a0a0",
               "text-align": "center",
-              "font-size": "25px"
+              "font-size": "25px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             },
             ".btn": {
-              "font-size": "14px"
+              "font-size": "14px",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".mbr-section-subtitle I": {
+              "font-family": "'Qwigley', handwriting",
+              "googleLink": "https://fonts.googleapis.com/css?family=Qwigley:400",
+              "font-size": "46px",
+              "color": "#ed957f"
             }
           },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box2",
-          "_anchor": "msg-box2-2p",
           "_params": {
             "showTitle": true,
             "showText": true,
@@ -1047,7 +1090,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
+            "bgColor": "#000000",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1056,85 +1099,14 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://beforethemakeup.setmore.com \" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK NOW</a>",
           "title": "Schedule an Appointment",
-          "text": "\"Before the makeup, there is beauty\""
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButtons": true,
-            "inverse": true,
-            "imageSize": "27",
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/14971339503321281759267-2000x1646-800x658.jpg",
-              "link": "enhancements.html#msg-box2-2p",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Lashes",
-          "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">$35</a>",
+          "text": "<i>\"Before the makeup, there is beauty\"</i>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://beforethemakeup.setmore.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK NOW</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box5",
-          "_styles": {
-            "H3": {
-              "font-size": "25px",
-              "color": "#f28281",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "text-align": "center"
-            },
-            "P": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "color": "#000000",
-              "text-align": "center"
-            },
-            "SPAN": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            },
-            ".btn": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            }
-          },
-          "_anchor": "msg-box5-79"
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-7l"
         }
       ]
     },
@@ -1152,35 +1124,35 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-size": "36px",
-              "font-family": "'MANIFESTO'",
-              "googleLink": "null"
+              "font-size": "48px",
+              "font-family": "'Arizonia', handwriting",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arizonia:400"
             },
             ".navbar-toggler": {
               "color": "#000000"
             },
             ".link, .dropdown-item": {
               "color": "#000000",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-family": "'Montserrat', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Arizonia:400",
+              "font-family": "'Arizonia', handwriting"
             },
             ".link": {
-              "font-size": "1.55rem"
+              "font-size": "1.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.679rem"
+              "font-size": "1.949rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#d6d6d6"
+              "background": "#b3b3b3"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#e7e7e7!important"
+              "background": "#c4c4c4!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#efefef"
+              "background": "#cccccc"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -1218,12 +1190,12 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#efefef",
-            "fontSize": "1.55",
+            "bgColor": "#cccccc",
+            "fontSize": "1.8",
             "fontName": {
-              "name": "Montserrat",
-              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "css": "'Montserrat', sans-serif"
+              "name": "Arizonia",
+              "url": "https://fonts.googleapis.com/css?family=Arizonia:400",
+              "css": "'Arizonia', handwriting"
             },
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
@@ -1247,7 +1219,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Before The <br>Make-up</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Before The Makeup</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://beforethemakeup.github.io/index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"services-facials.html#msg-box8-s\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"facials.html#header3-v\" aria-expanded=\"false\">Facials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"specialty.html#header3-1j\" aria-expanded=\"false\">Specialty </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://beforethemakeup.github.io/bodysculpting\" aria-expanded=\"false\">Body Sculpting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"enhancements.html#msg-box5-26\">Enhancements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://beforethemakeup.github.io/waxing.html\" aria-expanded=\"false\">Facial &amp; Body Waxing</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html#form1-7c\" aria-expanded=\"false\">Contact Us<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\"><span class=\"mbri-smile-face mbr-iconfont mbr-iconfont-btn\"></span>DOWNLOAD</a></li>"
         },
         {
@@ -1294,6 +1266,11 @@
               "text-align": "right",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".mbr-section-title": {
+              "font-size": "60px",
+              "font-family": "'Arizonia', handwriting",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arizonia:400"
             }
           },
           "_tags": [
@@ -1314,13 +1291,13 @@
           "_name": "footer1",
           "_anchor": "footer1-17",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#323232",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -1379,10 +1356,10 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "font-size": "25px",
+              "font-size": "36px",
               "color": "#f28281",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-family": "'Arizonia', handwriting",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arizonia:400",
               "text-align": "right"
             },
             "P": {
@@ -1396,8 +1373,9 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".btn": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "14px"
             }
           },
           "_anchor": "msg-box5-6p"
@@ -1454,10 +1432,10 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "font-size": "25px",
+              "font-size": "36px",
               "color": "#f28281",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-family": "'Arizonia', handwriting",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arizonia:400",
               "text-align": "left"
             },
             "P": {
@@ -1471,8 +1449,9 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".btn": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "14px"
             }
           },
           "_anchor": "msg-box5-6r"
@@ -1529,10 +1508,10 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "font-size": "25px",
+              "font-size": "36px",
               "color": "#f28281",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-family": "'Arizonia', handwriting",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arizonia:400",
               "text-align": "right"
             },
             "P": {
@@ -1546,8 +1525,9 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".btn": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "14px"
             }
           },
           "_anchor": "msg-box5-6s"
@@ -1604,10 +1584,10 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "font-size": "25px",
+              "font-size": "36px",
               "color": "#f28281",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-family": "'Arizonia', handwriting",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arizonia:400",
               "text-align": "left"
             },
             "P": {
@@ -1621,8 +1601,9 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".btn": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "14px"
             }
           },
           "_anchor": "msg-box5-6u"
@@ -1634,7 +1615,7 @@
             "showButtons": true,
             "inverse": false,
             "imageSize": "36",
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1679,10 +1660,10 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "font-size": "25px",
+              "font-size": "36px",
               "color": "#f28281",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-family": "'Arizonia', handwriting",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arizonia:400",
               "text-align": "right"
             },
             "P": {
@@ -1696,8 +1677,9 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".btn": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "14px"
             }
           },
           "_anchor": "msg-box5-6t"
@@ -1706,23 +1688,30 @@
           "_styles": {
             ".mbr-section-title": {
               "color": "#fff",
-              "font-size": "36px",
-              "text-align": "center"
+              "font-size": "60px",
+              "text-align": "center",
+              "font-family": "'Arizonia', handwriting",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arizonia:400"
             },
             ".mbr-section-subtitle": {
               "color": "#a0a0a0",
               "text-align": "center",
-              "font-size": "25px"
+              "font-size": "25px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             },
             ".btn": {
-              "font-size": "14px"
+              "font-size": "14px",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".mbr-section-subtitle I": {
+              "font-family": "'Qwigley', handwriting",
+              "googleLink": "https://fonts.googleapis.com/css?family=Qwigley:400",
+              "font-size": "46px",
+              "color": "#ed957f"
             }
           },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box2",
-          "_anchor": "msg-box2-2u",
           "_params": {
             "showTitle": true,
             "showText": true,
@@ -1734,7 +1723,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
+            "bgColor": "#000000",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1743,9 +1732,14 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://beforethemakeup.setmore.com \" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK NOW</a>",
           "title": "Schedule an Appointment",
-          "text": "\"Before the makeup, there is beauty\""
+          "text": "<i>\"Before the makeup, there is beauty\"</i>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://beforethemakeup.setmore.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK NOW</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-7n"
         }
       ]
     },
@@ -1763,35 +1757,35 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-size": "36px",
-              "font-family": "'MANIFESTO'",
-              "googleLink": "null"
+              "font-size": "48px",
+              "font-family": "'Arizonia', handwriting",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arizonia:400"
             },
             ".navbar-toggler": {
               "color": "#000000"
             },
             ".link, .dropdown-item": {
               "color": "#000000",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-family": "'Montserrat', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Arizonia:400",
+              "font-family": "'Arizonia', handwriting"
             },
             ".link": {
-              "font-size": "1.55rem"
+              "font-size": "1.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.679rem"
+              "font-size": "1.949rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#d6d6d6"
+              "background": "#b3b3b3"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#e7e7e7!important"
+              "background": "#c4c4c4!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#efefef"
+              "background": "#cccccc"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -1829,12 +1823,12 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#efefef",
-            "fontSize": "1.55",
+            "bgColor": "#cccccc",
+            "fontSize": "1.8",
             "fontName": {
-              "name": "Montserrat",
-              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "css": "'Montserrat', sans-serif"
+              "name": "Arizonia",
+              "url": "https://fonts.googleapis.com/css?family=Arizonia:400",
+              "css": "'Arizonia', handwriting"
             },
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
@@ -1858,7 +1852,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Before The <br>Make-up</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Before The Makeup</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://beforethemakeup.github.io/index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"services-facials.html#msg-box8-s\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"facials.html#header3-v\" aria-expanded=\"false\">Facials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"specialty.html#header3-1j\" aria-expanded=\"false\">Specialty </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://beforethemakeup.github.io/bodysculpting\" aria-expanded=\"false\">Body Sculpting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"enhancements.html#msg-box5-26\">Enhancements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://beforethemakeup.github.io/waxing.html\" aria-expanded=\"false\">Facial &amp; Body Waxing</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html#form1-7c\" aria-expanded=\"false\">Contact Us<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\"><span class=\"mbri-smile-face mbr-iconfont mbr-iconfont-btn\"></span>DOWNLOAD</a></li>"
         },
         {
@@ -1879,7 +1873,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/hot-stone-massage-2000x7295.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/hot-stone-massage-2000x72912.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -1907,8 +1901,9 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
             ".mbr-section-title": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+              "font-family": "'Arizonia', handwriting",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arizonia:400",
+              "font-size": "60px"
             }
           },
           "_tags": [
@@ -1929,13 +1924,13 @@
           "_name": "footer1",
           "_anchor": "footer1-1q",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#323232",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -1985,8 +1980,8 @@
               "size": 0
             }
           },
-          "title": "MICRO-NEEDLE",
-          "text": "Also known as the vampire facial, is the latest technique in improving the appearance of fine lines, wrinkles, scars (acne, surgical, burn), stretch marks, pore size, skin tone and texture. When moved across the skin’s surface it stimulates natural collagen reproduction, while creating channels in the skin. These channels allow nutrients to enter deep into the c ells found in the dermis. This increased absorption (up to 80%) of active ingredients create stimulated repair and faster resurfacing results<i>.</i>",
+          "title": "Micro-Needle",
+          "text": "<i>Also known as the vampire facial, is the latest technique in improving the appearance of fine lines, wrinkles, scars (acne, surgical, burn), stretch marks, pore size, skin tone and texture. When moved across the skin’s surface it stimulates natural collagen reproduction, while creating channels in the skin. These channels allow nutrients to enter deep into the c ells found in the dermis. This increased absorption (up to 80%) of active ingredients create stimulated repair and faster resurfacing results.</i>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"http://beforethemakeup.setmore.com\" data-toolbar=\"-mbrBtnMove\">$175</a>",
           "_tags": [
             "Theme"
@@ -1996,10 +1991,10 @@
           "_styles": {
             "H3": {
               "text-align": "center",
-              "font-size": "25px",
-              "color": "#06a6b3",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+              "font-size": "36px",
+              "color": "#f28281",
+              "font-family": "'Arizonia', handwriting",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arizonia:400"
             },
             "P": {
               "text-align": "left",
@@ -2008,13 +2003,14 @@
               "color": "#232323"
             },
             "I": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "14px"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "17px"
             },
             ".btn": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "14px"
             }
           }
         },
@@ -2061,8 +2057,8 @@
               "size": 0
             }
           },
-          "title": "MICROCURRENT",
-          "text": "Also known as the vampire facial, is the latest technique in improving the appearance of fine lines, wrinkles, scars (acne, surgical, burn), stretch marks, pore size, skin tone and texture. When moved across the skin’s surface it stimulates natural collagen reproduction, while creating channels in the skin. These channels allow nutrients to enter deep into the c ells found in the dermis. This increased absorption (up to 80%) of active ingredients create stimulated repair and faster resurfacing results<i>.</i>",
+          "title": "Micro-Current",
+          "text": "<i>Also known as the vampire facial, is the latest technique in improving the appearance of fine lines, wrinkles, scars (acne, surgical, burn), stretch marks, pore size, skin tone and texture. When moved across the skin’s surface it stimulates natural collagen reproduction, while creating channels in the skin. These channels allow nutrients to enter deep into the c ells found in the dermis. This increased absorption (up to 80%) of active ingredients create stimulated repair and faster resurfacing results.</i>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"http://beforethemakeup.setmore.com\" data-toolbar=\"-mbrBtnMove\">$90</a>",
           "_tags": [
             "Theme"
@@ -2071,10 +2067,10 @@
           "_styles": {
             "H3": {
               "text-align": "center",
-              "font-size": "25px",
-              "color": "#06a6b3",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+              "font-size": "36px",
+              "color": "#f28281",
+              "font-family": "'Arizonia', handwriting",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arizonia:400"
             },
             "P": {
               "text-align": "center",
@@ -2083,13 +2079,14 @@
               "color": "#000000"
             },
             "I": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "14px"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "17px"
             },
             ".btn": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "14px"
             }
           },
           "_anchor": "msg-box5-3k"
@@ -2137,8 +2134,8 @@
               "size": 0
             }
           },
-          "title": "DERMAPLANE",
-          "text": "Dermaplaning is a skin resurfacing procedure that uses a special surgical blade to scrape away the surface layer of dead skin cells and fine hairs from the face. It improves the absorption of skincare while creating a flawless canvas for make- up. There is an immediate reduction in the appearance of fine lines and wrinkles as well as immediate improvement in skin tone and texture. Smooth, radiant, glowing skin is instantly revealed.",
+          "title": "Dermaplane",
+          "text": "<i>Dermaplaning is a skin resurfacing procedure that uses a special surgical blade to scrape away the surface layer of dead skin cells and fine hairs from the face. It improves the absorption of skincare while creating a flawless canvas for make- up. There is an immediate reduction in the appearance of fine lines and wrinkles as well as immediate improvement in skin tone and texture. Smooth, radiant, glowing skin is instantly revealed.</i>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"http://beforethemakeup.setmore.com\" data-toolbar=\"-mbrBtnMove\">$95</a>",
           "_tags": [
             "Theme"
@@ -2147,10 +2144,10 @@
           "_anchor": "msg-box5-3j",
           "_styles": {
             "H3": {
-              "font-size": "25px",
-              "color": "#06a6b3",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "36px",
+              "color": "#f28281",
+              "font-family": "'Arizonia', handwriting",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arizonia:400",
               "text-align": "center"
             },
             "P": {
@@ -2164,8 +2161,13 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".btn": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "14px"
+            },
+            "I": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           }
         },
@@ -2213,7 +2215,7 @@
             }
           },
           "title": "Microdermabrasion",
-          "text": "Mechanical exfoliation that removes the uppermost layer of dead skin cells from the face, leaving skin smooth and radiant!",
+          "text": "<i>Mechanical exfoliation that removes the uppermost layer of dead skin cells from the face, leaving skin smooth and radiant!</i>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"http://beforethemakeup.setmore.com\" data-toolbar=\"-mbrBtnMove\">$85/ 1 hr</a>",
           "_tags": [
             "Theme"
@@ -2221,10 +2223,10 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "font-size": "25px",
-              "color": "#06a6b3",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "36px",
+              "color": "#f28281",
+              "font-family": "'Arizonia', handwriting",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arizonia:400",
               "text-align": "center"
             },
             "P": {
@@ -2238,8 +2240,13 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".btn": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "14px"
+            },
+            "I": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "_anchor": "msg-box5-76"
@@ -2248,23 +2255,30 @@
           "_styles": {
             ".mbr-section-title": {
               "color": "#fff",
-              "font-size": "36px",
-              "text-align": "center"
+              "font-size": "60px",
+              "text-align": "center",
+              "font-family": "'Arizonia', handwriting",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arizonia:400"
             },
             ".mbr-section-subtitle": {
-              "color": "#c1c1c1",
+              "color": "#a0a0a0",
               "text-align": "center",
-              "font-size": "25px"
+              "font-size": "25px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             },
             ".btn": {
-              "font-size": "14px"
+              "font-size": "14px",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".mbr-section-subtitle I": {
+              "font-family": "'Qwigley', handwriting",
+              "googleLink": "https://fonts.googleapis.com/css?family=Qwigley:400",
+              "font-size": "46px",
+              "color": "#ed957f"
             }
           },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box2",
-          "_anchor": "msg-box2-2s",
           "_params": {
             "showTitle": true,
             "showText": true,
@@ -2276,7 +2290,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
+            "bgColor": "#000000",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2285,9 +2299,14 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://beforethemakeup.setmore.com \" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK NOW</a>",
           "title": "Schedule an Appointment",
-          "text": "\"Before the makeup, there is beauty\""
+          "text": "<i>\"Before the makeup, there is beauty\"</i>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://beforethemakeup.setmore.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK NOW</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-7o"
         }
       ]
     },
@@ -2305,35 +2324,35 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-size": "36px",
-              "font-family": "'MANIFESTO'",
-              "googleLink": "null"
+              "font-size": "48px",
+              "font-family": "'Arizonia', handwriting",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arizonia:400"
             },
             ".navbar-toggler": {
               "color": "#000000"
             },
             ".link, .dropdown-item": {
               "color": "#000000",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-family": "'Montserrat', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Arizonia:400",
+              "font-family": "'Arizonia', handwriting"
             },
             ".link": {
-              "font-size": "1.55rem"
+              "font-size": "1.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.679rem"
+              "font-size": "1.949rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#d6d6d6"
+              "background": "#b3b3b3"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#e7e7e7!important"
+              "background": "#c4c4c4!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#efefef"
+              "background": "#cccccc"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -2371,12 +2390,12 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#efefef",
-            "fontSize": "1.55",
+            "bgColor": "#cccccc",
+            "fontSize": "1.8",
             "fontName": {
-              "name": "Montserrat",
-              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "css": "'Montserrat', sans-serif"
+              "name": "Arizonia",
+              "url": "https://fonts.googleapis.com/css?family=Arizonia:400",
+              "css": "'Arizonia', handwriting"
             },
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
@@ -2400,7 +2419,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Before The <br>Make-up</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Before The Makeup</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://beforethemakeup.github.io/index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"services-facials.html#msg-box8-s\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"facials.html#header3-v\" aria-expanded=\"false\">Facials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"specialty.html#header3-1j\" aria-expanded=\"false\">Specialty </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://beforethemakeup.github.io/bodysculpting\" aria-expanded=\"false\">Body Sculpting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"enhancements.html#msg-box5-26\">Enhancements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://beforethemakeup.github.io/waxing.html\" aria-expanded=\"false\">Facial &amp; Body Waxing</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html#form1-7c\" aria-expanded=\"false\">Contact Us<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\"><span class=\"mbri-smile-face mbr-iconfont mbr-iconfont-btn\"></span>DOWNLOAD</a></li>"
         },
         {
@@ -2447,6 +2466,11 @@
               "text-align": "right",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Arizonia', handwriting",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arizonia:400",
+              "font-size": "60px"
             }
           },
           "_tags": [
@@ -2460,7 +2484,7 @@
             "paddingBottom": "1",
             "bgColor": "#90a878"
           },
-          "title": "FACIALS",
+          "title": "Facials",
           "meta": "By John Smith posted July 20, 2016"
         },
         {
@@ -2507,7 +2531,7 @@
             }
           },
           "title": "Signature Facial",
-          "text": "A customized facial that involves a skin consultation accompanied with a deep cleansing, steam, exfoliants, extractions, masque, hand massage. Along with moisturizer, spf and eye serum.",
+          "text": "<i>A customized facial that involves a skin consultation accompanied with a deep cleansing, steam, exfoliants, extractions, masque, hand massage. Along with moisturizer, spf and eye serum.</i>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"http://beforethemakeup.setmore.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">$75 / 1 hr</a>",
           "_tags": [
             "Theme"
@@ -2515,10 +2539,10 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "font-size": "25px",
+              "font-size": "36px",
               "color": "#f28281",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-family": "'Arizonia', handwriting",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arizonia:400",
               "text-align": "center"
             },
             "P": {
@@ -2532,8 +2556,13 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".btn": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "14px"
+            },
+            "I": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "_anchor": "msg-box5-3r"
@@ -2582,7 +2611,7 @@
             }
           },
           "title": "Express Facial",
-          "text": "Deep cleansing facial for the person that is on the go.",
+          "text": "<i>Deep cleansing facial for the person that is on the go.</i>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"http://beforethemakeup.setmore.com\" data-toolbar=\"-mbrBtnMove\">$50 / 30 mins</a>",
           "_tags": [
             "Theme"
@@ -2590,10 +2619,10 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "font-size": "25px",
+              "font-size": "36px",
               "color": "#f28281",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-family": "'Arizonia', handwriting",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arizonia:400",
               "text-align": "center"
             },
             "P": {
@@ -2607,8 +2636,13 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".btn": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "14px"
+            },
+            "I": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "_anchor": "msg-box5-3p"
@@ -2657,7 +2691,7 @@
             }
           },
           "title": "Chemical Peel",
-          "text": "Chemical solution used to improve and smooth the texture of the skin by removing the damaged outer layer. Chemical peel determination will be made after an in-depth consultation.",
+          "text": "<i>Chemical solution used to improve and smooth the texture of the skin by removing the damaged outer layer. Chemical peel determination will be made after an in-depth consultation.</i>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"http://beforethemakeup.setmore.com\" data-toolbar=\"-mbrBtnMove\">$99 / 45 mins</a>",
           "_tags": [
             "Theme"
@@ -2665,10 +2699,10 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "font-size": "25px",
+              "font-size": "36px",
               "color": "#f28281",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-family": "'Arizonia', handwriting",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arizonia:400",
               "text-align": "center"
             },
             "P": {
@@ -2682,8 +2716,13 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".btn": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "14px"
+            },
+            "I": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "_anchor": "msg-box5-3s"
@@ -2692,13 +2731,13 @@
           "_name": "footer1",
           "_anchor": "footer1-j",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#323232",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -2709,16 +2748,28 @@
           "_styles": {
             ".mbr-section-title": {
               "color": "#fff",
-              "font-size": "36px",
-              "text-align": "center"
+              "font-size": "60px",
+              "text-align": "center",
+              "font-family": "'Arizonia', handwriting",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arizonia:400"
             },
             ".mbr-section-subtitle": {
               "color": "#a0a0a0",
               "text-align": "center",
-              "font-size": "25px"
+              "font-size": "25px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             },
             ".btn": {
-              "font-size": "14px"
+              "font-size": "14px",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".mbr-section-subtitle I": {
+              "font-family": "'Qwigley', handwriting",
+              "googleLink": "https://fonts.googleapis.com/css?family=Qwigley:400",
+              "font-size": "46px",
+              "color": "#ed957f"
             }
           },
           "_tags": [
@@ -2737,7 +2788,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
+            "bgColor": "#000000",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2748,7 +2799,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://beforethemakeup.setmore.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK NOW</a>",
           "title": "Schedule an Appointment",
-          "text": "\"Before the makeup, there is beauty\""
+          "text": "<i>\"Before the makeup, there is beauty\"</i>"
         }
       ]
     },
@@ -2766,35 +2817,35 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-size": "36px",
-              "font-family": "'MANIFESTO'",
-              "googleLink": "null"
+              "font-size": "48px",
+              "font-family": "'Arizonia', handwriting",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arizonia:400"
             },
             ".navbar-toggler": {
               "color": "#000000"
             },
             ".link, .dropdown-item": {
               "color": "#000000",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-family": "'Montserrat', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Arizonia:400",
+              "font-family": "'Arizonia', handwriting"
             },
             ".link": {
-              "font-size": "1.55rem"
+              "font-size": "1.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.679rem"
+              "font-size": "1.949rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#d6d6d6"
+              "background": "#b3b3b3"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#e7e7e7!important"
+              "background": "#c4c4c4!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#efefef"
+              "background": "#cccccc"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -2831,12 +2882,12 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#efefef",
-            "fontSize": "1.55",
+            "bgColor": "#cccccc",
+            "fontSize": "1.8",
             "fontName": {
-              "name": "Montserrat",
-              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "css": "'Montserrat', sans-serif"
+              "name": "Arizonia",
+              "url": "https://fonts.googleapis.com/css?family=Arizonia:400",
+              "css": "'Arizonia', handwriting"
             },
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
@@ -2860,7 +2911,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Before The <br>Make-up</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Before The Makeup</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://beforethemakeup.github.io/index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"services-facials.html#msg-box8-s\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"facials.html#header3-v\" aria-expanded=\"false\">Facials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"specialty.html#header3-1j\" aria-expanded=\"false\">Specialty </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://beforethemakeup.github.io/bodysculpting\" aria-expanded=\"false\">Body Sculpting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"enhancements.html#msg-box5-26\">Enhancements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://beforethemakeup.github.io/waxing.html\" aria-expanded=\"false\">Facial &amp; Body Waxing</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html#form1-7c\" aria-expanded=\"false\">Contact Us<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\"><span class=\"mbri-smile-face mbr-iconfont mbr-iconfont-btn\"></span>DOWNLOAD</a></li>",
           "_anchor": "menu-6v"
         },
@@ -2908,6 +2959,11 @@
               "text-align": "right",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Arizonia', handwriting",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arizonia:400",
+              "font-size": "60px"
             }
           },
           "_tags": [
@@ -2937,7 +2993,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efac9b",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2968,7 +3024,7 @@
             }
           },
           "title": "Laser Lipo",
-          "text": "Laser liposuction is a minimally invasive procedure used for facial and body contouring. It uses laser energy to literally melt away unwanted fat almost anywhere in the body. This external liposuction technique uses a cold laser (in the form small and big pads) outside the patient’s body to break up fat before it’s removed from the body.&nbsp;",
+          "text": "<i>Laser liposuction is a minimally invasive procedure used for facial and body contouring. It uses laser energy to literally melt away unwanted fat almost anywhere in the body. This external liposuction technique uses a cold laser (in the form small and big pads) outside the patient’s body to break up fat before it’s removed from the body.&nbsp;</i>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"http://beforethemakeup.setmore.com\" data-toolbar=\"-mbrBtnMove\">$237 / 3-30 min sessions<br></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"http://beforethemakeup.setmore.com\" data-toolbar=\"-mbrBtnMove\">$474 / 6-30 min sessions<br></a>",
           "_tags": [
             "Theme"
@@ -2976,10 +3032,10 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "font-size": "25px",
-              "color": "#ffffff",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "36px",
+              "color": "#f28281",
+              "font-family": "'Arizonia', handwriting",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arizonia:400",
               "text-align": "center"
             },
             "P": {
@@ -2987,15 +3043,21 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
               "color": "#ffffff",
               "text-align": "center",
-              "font-size": "19px"
+              "font-size": "17px"
             },
             "SPAN": {
               "font-family": "'Oxygen', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".btn": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "14px"
+            },
+            "I": {
+              "color": "#000000",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "_anchor": "msg-box5-6z"
@@ -3013,7 +3075,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efac9b",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -3044,7 +3106,7 @@
             }
           },
           "title": "Sculpting Butt Lift",
-          "text": "Sculpting Butt lift (non-surgical) using a combination of non- surgical techniques our butt lift treatment involves changing the shape of the buttocks. We focus on toning, lifting and repositioning some of the malleable fat for a more appealing buttocks contour. We will assess your body shape to ensure that the best treatment program for your customized Butt lift is devised to effectively sculpt, contour, lift and smooth the buttocks ensuring maximum results.&nbsp;",
+          "text": "<i>Sculpting Butt lift (non-surgical) using a combination of non- surgical techniques our butt lift treatment involves changing the shape of the buttocks. We focus on toning, lifting and repositioning some of the malleable fat for a more appealing buttocks contour. We will assess your body shape to ensure that the best treatment program for your customized Butt lift is devised to effectively sculpt, contour, lift and smooth the buttocks ensuring maximum results.&nbsp;</i>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"http://beforethemakeup.setmore.com\" data-toolbar=\"-mbrBtnMove\">$170 / 1 hr</a>",
           "_tags": [
             "Theme"
@@ -3052,10 +3114,10 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "font-size": "25px",
-              "color": "#ffffff",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "36px",
+              "color": "#f28281",
+              "font-family": "'Arizonia', handwriting",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arizonia:400",
               "text-align": "center"
             },
             "P": {
@@ -3069,8 +3131,14 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".btn": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "14px"
+            },
+            "I": {
+              "color": "#000000",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "_anchor": "msg-box5-6y"
@@ -3078,13 +3146,13 @@
         {
           "_name": "footer1",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#323232",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -3096,22 +3164,30 @@
           "_styles": {
             ".mbr-section-title": {
               "color": "#fff",
-              "font-size": "36px",
-              "text-align": "center"
+              "font-size": "60px",
+              "text-align": "center",
+              "font-family": "'Arizonia', handwriting",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arizonia:400"
             },
             ".mbr-section-subtitle": {
               "color": "#a0a0a0",
               "text-align": "center",
-              "font-size": "25px"
+              "font-size": "25px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             },
             ".btn": {
-              "font-size": "14px"
+              "font-size": "14px",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".mbr-section-subtitle I": {
+              "font-family": "'Qwigley', handwriting",
+              "googleLink": "https://fonts.googleapis.com/css?family=Qwigley:400",
+              "font-size": "46px",
+              "color": "#ed957f"
             }
           },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box2",
           "_params": {
             "showTitle": true,
             "showText": true,
@@ -3123,7 +3199,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
+            "bgColor": "#000000",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -3132,10 +3208,14 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://beforethemakeup.setmore.com \" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK NOW</a>",
           "title": "Schedule an Appointment",
-          "text": "\"Before the makeup, there is beauty\"",
-          "_anchor": "msg-box2-71"
+          "text": "<i>\"Before the makeup, there is beauty\"</i>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://beforethemakeup.setmore.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK NOW</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-7k"
         }
       ]
     },
@@ -3167,6 +3247,63 @@
           "_anchor": "header3-7b"
         },
         {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff",
+              "font-size": "60px",
+              "text-align": "center",
+              "font-family": "'Arizonia', handwriting",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arizonia:400"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0",
+              "text-align": "center",
+              "font-size": "25px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".btn": {
+              "font-size": "14px",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".mbr-section-subtitle I": {
+              "font-family": "'Qwigley', handwriting",
+              "googleLink": "https://fonts.googleapis.com/css?family=Qwigley:400",
+              "font-size": "46px",
+              "color": "#ed957f"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Schedule an Appointment",
+          "text": "<i>\"Before the makeup, there is beauty\"</i>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://beforethemakeup.setmore.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK NOW</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-7m"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -3176,14 +3313,20 @@
               "color": "#232323"
             },
             "SMALL": {
-              "font-size": "46px",
+              "font-size": "36px",
               "color": "#000000",
-              "font-family": "'Ubuntu', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".btn": {
-              "font-family": "'MANIFESTO'",
-              "googleLink": "null"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "14px"
+            },
+            ".mbr-section-title": {
+              "font-size": "32px",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "_params": {
@@ -3235,163 +3378,40 @@
         },
         {
           "_styles": {
-            ".mbr-section-title": {
-              "color": "#fff",
-              "font-size": "36px",
-              "text-align": "center"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#a0a0a0",
-              "text-align": "center",
-              "font-size": "25px"
-            },
-            ".btn": {
-              "font-size": "14px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box2",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://beforethemakeup.setmore.com \" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK NOW</a>",
-          "title": "Schedule an Appointment",
-          "text": "\"Before the makeup, there is beauty\"",
-          "_anchor": "msg-box2-7d"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#fff"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#a0a0a0"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showSubTitle": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "SUBSCRIBE FORM",
-          "subtitle": "Subscribe to our Newsletter",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SUBSCRIBE</a>",
-          "form": {
-            "action": "rww360@outlook.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "email": {
-                "title": "Email",
-                "customTitle": "Enter Your Email Address..."
-              }
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "form2",
-          "_anchor": "form2-7e"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "map1",
-          "_params": {
-            "googleMap": {
-              "address": "8046 Roswell Rd NE\nSandy Springs, GA 30350",
-              "placeId": "",
-              "state": "loading"
-            }
-          },
-          "_anchor": "map1-7f"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_params": {
-            "showMeta": true,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgColor": "#fff"
-          },
-          "title": "",
-          "meta": "",
-          "_anchor": "header3-7g"
-        },
-        {
-          "_styles": {
             ".hide-buttons .nav-btn": {
               "display": "none !important"
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-size": "36px",
-              "font-family": "'MANIFESTO'",
-              "googleLink": "null"
+              "font-size": "48px",
+              "font-family": "'Arizonia', handwriting",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arizonia:400"
             },
             ".navbar-toggler": {
               "color": "#000000"
             },
             ".link, .dropdown-item": {
               "color": "#000000",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-family": "'Montserrat', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Arizonia:400",
+              "font-family": "'Arizonia', handwriting"
             },
             ".link": {
-              "font-size": "1.55rem"
+              "font-size": "1.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.679rem"
+              "font-size": "1.949rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#d6d6d6"
+              "background": "#b3b3b3"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#e7e7e7!important"
+              "background": "#c4c4c4!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#efefef"
+              "background": "#cccccc"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -3425,12 +3445,12 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#efefef",
-            "fontSize": "1.55",
+            "bgColor": "#cccccc",
+            "fontSize": "1.8",
             "fontName": {
-              "name": "Montserrat",
-              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "css": "'Montserrat', sans-serif"
+              "name": "Arizonia",
+              "url": "https://fonts.googleapis.com/css?family=Arizonia:400",
+              "css": "'Arizonia', handwriting"
             },
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
@@ -3454,26 +3474,65 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Before The <br>Make-up</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Before The Makeup</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://beforethemakeup.github.io/index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"services-facials.html#msg-box8-s\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"facials.html#header3-v\" aria-expanded=\"false\">Facials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"specialty.html#header3-1j\" aria-expanded=\"false\">Specialty </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://beforethemakeup.github.io/bodysculpting\" aria-expanded=\"false\">Body Sculpting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"enhancements.html#msg-box5-26\">Enhancements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://beforethemakeup.github.io/waxing.html\" aria-expanded=\"false\">Facial &amp; Body Waxing</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html#form1-7c\" aria-expanded=\"false\">Contact Us<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\"><span class=\"mbri-smile-face mbr-iconfont mbr-iconfont-btn\"></span>DOWNLOAD</a></li>",
           "_anchor": "menu-7h"
         },
         {
           "_name": "footer1",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#323232",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
           "text": "Copyright (c) 2017 Before the Makeup.",
           "_anchor": "footer1-7i"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "8046 Roswell Rd NE\nSandy Springs, GA 30350",
+              "placeId": "",
+              "state": "loading"
+            }
+          },
+          "text1": "<strong>Address</strong><br>8046 Roswell Rd NE<br>#101<br>Sandy Springs, GA 30350<br><br><br>\n<strong>Contacts</strong><br>\nEmail: connie@beforethemakeup.net<br><br>\nPhone: <br>1-954-864-3010<br><br>",
+          "text2": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-7j",
+          "_styles": {
+            "P": {
+              "font-size": "14px",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            "STRONG": {
+              "color": "#ed957f",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "17px"
+            }
+          }
         }
       ]
     }
