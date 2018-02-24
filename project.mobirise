@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "contactus.html",
+    "currentPage": "specialty.html",
     "name": "beforethemakeup1.1-clone",
     "theme": {
       "name": "mobirise3",
@@ -1873,7 +1873,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/hot-stone-massage-2000x72912.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/hot-stone-massage-2000x7290.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -1982,7 +1982,7 @@
           },
           "title": "Micro-Needle",
           "text": "<i>Also known as the vampire facial, is the latest technique in improving the appearance of fine lines, wrinkles, scars (acne, surgical, burn), stretch marks, pore size, skin tone and texture. When moved across the skin’s surface it stimulates natural collagen reproduction, while creating channels in the skin. These channels allow nutrients to enter deep into the c ells found in the dermis. This increased absorption (up to 80%) of active ingredients create stimulated repair and faster resurfacing results.</i>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"http://beforethemakeup.setmore.com\" data-toolbar=\"-mbrBtnMove\">$175</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"http://beforethemakeup.setmore.com\" data-toolbar=\"-mbrBtnMove\">$225</a>",
           "_tags": [
             "Theme"
           ],
